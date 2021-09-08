@@ -1,6 +1,6 @@
 # How to use Yield Farming
 
-![](../../.gitbook/assets/10.-how-to-use-farming%20%281%29.svg)
+![](../../.gitbook/assets/10.-how-to-use-farming%20%281%29%20%281%29.svg)
 
 ### **Preparation**
 

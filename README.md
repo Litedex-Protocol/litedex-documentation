@@ -1,6 +1,6 @@
 # Introduction
 
-![](.gitbook/assets/1.-documentation.svg)
+![](.gitbook/assets/1.-documentation%20%281%29.svg)
 
 **Decentralized Finance Protocol** is a blockchain based financial system which designed to provide an open financial service that are transparent without intermediaries, permissions and available to everyone without centralized authority. Instead, it uses smart contract based on blockchain technology, which allows developers to build better functions. Decentralized Finance consist of trading, saving, lending, borrowing, and insurance services that can be accessed by anyone at any time using a smartphone or a laptop and internet connection.‌
 

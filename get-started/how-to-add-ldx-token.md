@@ -12,7 +12,7 @@ Before adding LDX Token, make sure you have it installed and connected to your w
 
 and details appear
 
-![](../.gitbook/assets/fa043e96-dc0b-4c2f-bf12-0f807158861f_1_105_c%20%282%29.jpeg)
+![](../.gitbook/assets/fa043e96-dc0b-4c2f-bf12-0f807158861f_1_105_c%20%281%29%20%281%29.jpeg)
 
 3. Click "Add to Metamask"
 

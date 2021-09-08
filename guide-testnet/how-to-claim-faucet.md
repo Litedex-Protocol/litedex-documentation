@@ -16,15 +16,15 @@ Before making claims faucet, you should install metamask wallet and make sure th
 
 3. The website displays a pop-up and click on "Claim Now"
 
-![](../.gitbook/assets/d813cd7f-3b0d-44c0-878f-3db6cb252c51_1_201_a%20%281%29.jpeg)
+![](../.gitbook/assets/d813cd7f-3b0d-44c0-878f-3db6cb252c51_1_201_a%20%281%29%20%281%29.jpeg)
 
 4. A new tab appears and displays the Rinkeby faucet page.
 
-![](../.gitbook/assets/54043853-e8a1-4a65-8ecf-70cefe74ca4c_1_105_c.jpeg)
+![](../.gitbook/assets/54043853-e8a1-4a65-8ecf-70cefe74ca4c_1_105_c%20%281%29.jpeg)
 
 5. Copy your Wallet address and paste it into your twitter account.
 
-![](../.gitbook/assets/abe28c4e-97c1-40e9-b253-392edbe87083_1_201_a.jpeg)
+![](../.gitbook/assets/abe28c4e-97c1-40e9-b253-392edbe87083_1_201_a%20%281%29.jpeg)
 
 6. Copy the URL of the tweet and paste it into the input of the Rinkeby faucet website page, click the "Give me Ether" button, select the amount of ether you want.
 
@@ -48,7 +48,7 @@ Before making a faucet claim, you have to install the metamask wallet and make s
 
 3. The website displays a pop up and click “Claim Now”
 
-![](../.gitbook/assets/d813cd7f-3b0d-44c0-878f-3db6cb252c51_1_201_a%20%283%29.jpeg)
+![](../.gitbook/assets/d813cd7f-3b0d-44c0-878f-3db6cb252c51_1_201_a%20%281%29%20%283%29.jpeg)
 
 4. A new tab appears showing faucet input
 

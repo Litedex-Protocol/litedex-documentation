@@ -1,6 +1,6 @@
 # Get Started
 
-![](../.gitbook/assets/14.-get-started%20%282%29.svg)
+![](../.gitbook/assets/14.-get-started%20%282%29%20%282%29.svg)
 
 Before beginning a trade, We strongly recommend the traders to understand and study how to use the trade. As such, the LITEDEX Team provides brief education for both novice and experienced traders. The following educational paths have been provided.‌
 

@@ -44,7 +44,7 @@ In Staking setup, only one token will be needed in order to start earning for re
 
 10. Successful.‌
 
-![](../../.gitbook/assets/b1deb526-99ba-40da-aeda-f4c16e72deb7_1_201_a%20%286%29.jpeg)
+![](../../.gitbook/assets/b1deb526-99ba-40da-aeda-f4c16e72deb7_1_201_a%20%285%29.jpeg)
 
 ### **Add or remove Staking.** <a id="add-or-remove-staking"></a>
 

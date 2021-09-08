@@ -1,6 +1,6 @@
 # How to Trade
 
-![](../../.gitbook/assets/7.-how-to-trade.svg)
+![](../../.gitbook/assets/7.-how-to-trade%20%281%29.svg)
 
 LITEDEX puts a lot of effort into making trading easy for both novice and experienced users. LITEDEX Team had created an easy to understand interface and teaching the steps on how to use it through the LITEDEX documentation.
 
