@@ -1,6 +1,6 @@
 # Memulai
 
-![](../.gitbook/assets/14.-get-started.svg)
+![](../.gitbook/assets/14.-get-started%20%282%29.svg)
 
 Sebelum Anda melakukan perdagangan, Kami sangat menyarankan untuk memahami, mempelajari dan menggunakannya dengan baik. Oleh karena itu, Tim LITEDEX menyediakan edukasi singkat untuk pedagang pemula dan pedagang pengalaman. Berikut jalur edukasi yang telah disediakan.‌
 

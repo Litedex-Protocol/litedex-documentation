@@ -1,6 +1,6 @@
 # Cara Berdagang
 
-![](../../.gitbook/assets/7.-how-to-trade%20%281%29.svg)
+![](../../.gitbook/assets/7.-how-to-trade%20%281%29%20%281%29.svg)
 
 LITEDEX sangat berupaya memudahkan perdagangan untuk pengguna pemula dan pengguna berpengalaman. Maka dari itu Tim LITEDEX membuat tampilan yang sangat mudah dipahami dan mengajarkan langkah-langkah penggunaannya melalui dokumentasi LITEDEX.
 

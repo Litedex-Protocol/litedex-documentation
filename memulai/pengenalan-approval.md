@@ -28,7 +28,7 @@ Semua prosedur Approval dilakukan melalui smart contract yang memiliki keamanan 
 
 ![\(Sistem akan secara otomatis melakukan Approval\)](../.gitbook/assets/51881679-c0a6-40a1-b672-57cabdf45ffe_4_5005_c.jpeg)
 
-![\(Setelah proses Approval berhasil, sistem akan mengeksekusi transaksi farming\)](../.gitbook/assets/2bfd5e74-c164-4627-936f-2a73f41e978d_4_5005_c%20%284%29.jpeg)
+![\(Setelah proses Approval berhasil, sistem akan mengeksekusi transaksi farming\)](../.gitbook/assets/2bfd5e74-c164-4627-936f-2a73f41e978d_4_5005_c%20%283%29%20%281%29.jpeg)
 
 
 

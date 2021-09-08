@@ -12,19 +12,19 @@ Sebelum melakukan klaim faucet, Anda harus menginstall wallet metamask dan pasti
 
 2. Klik tombol “Claim Faucet”
 
-![](../.gitbook/assets/2d5a9786-fdac-483f-badb-10ee995df96a_4_5005_c%20%281%29.jpeg)
+![](../.gitbook/assets/9c3ede5c-9287-44c2-b9b5-86dcf1b28d76_4_5005_c%20%283%29.jpeg)
 
 3. Website menampilkan pop up dan klik “Claim Now”
 
-![](../.gitbook/assets/d813cd7f-3b0d-44c0-878f-3db6cb252c51_1_201_a%20%282%29.jpeg)
+![](../.gitbook/assets/b9f789e4-a3cd-4e74-80d2-465b96833068_1_201_a%20%283%29.jpeg)
 
 4. Tab baru muncul dan menampilkan halaman faucet rinkeby.
 
-![](../.gitbook/assets/54043853-e8a1-4a65-8ecf-70cefe74ca4c_1_105_c%20%281%29.jpeg)
+![](../.gitbook/assets/54043853-e8a1-4a65-8ecf-70cefe74ca4c_1_105_c%20%281%29%20%281%29.jpeg)
 
 5. Copy address Wallet Anda dan pastekan pada twit akun twitter.
 
-![](../.gitbook/assets/abe28c4e-97c1-40e9-b253-392edbe87083_1_201_a%20%281%29.jpeg)
+![](../.gitbook/assets/abe28c4e-97c1-40e9-b253-392edbe87083_1_201_a%20%281%29%20%281%29.jpeg)
 
 6. Copy URL twit tersebut dan pastekan pada input halaman website faucet rinkeby, 
 
@@ -46,11 +46,11 @@ Sebelum melakukan klaim faucet, Anda harus menginstall wallet metamask dan pasti
 
 2. Klik tombol “Claim Faucet”.
 
-![](../.gitbook/assets/2d5a9786-fdac-483f-badb-10ee995df96a_4_5005_c%20%283%29.jpeg)
+![](../.gitbook/assets/9c3ede5c-9287-44c2-b9b5-86dcf1b28d76_4_5005_c%20%281%29.jpeg)
 
 3. Website menampilkan pop up dan klik “Claim Now”
 
-![](../.gitbook/assets/d813cd7f-3b0d-44c0-878f-3db6cb252c51_1_201_a.jpeg)
+![](../.gitbook/assets/b9f789e4-a3cd-4e74-80d2-465b96833068_1_201_a%20%284%29.jpeg)
 
 4. Tab baru muncul menampilkan input faucet.
 

@@ -12,11 +12,11 @@ Sebelum memindahkan jaringan mainnet ke testnet, pastikan Anda telah menginstall
 
 3. Website menampilkan pop up yang berisi list wallet, klik Wallet “metamask”.
 
-![](../.gitbook/assets/0777bb92-dd99-459b-9591-639c543643d5_1_105_c.jpeg)
+![](../.gitbook/assets/0777bb92-dd99-459b-9591-639c543643d5_1_105_c%20%281%29.jpeg)
 
 4. Tunggu sebentar sampai tombol bagian kanan atas menampilkan address Anda.
 
-![](../.gitbook/assets/d5276dcc-736f-4d32-9e48-ff0135b41b0c_4_5005_c%20%282%29.jpeg)
+![](../.gitbook/assets/d5276dcc-736f-4d32-9e48-ff0135b41b0c_4_5005_c%20%281%29%20%282%29.jpeg)
 
 5. Perhatikan posisi tombol berada dijaringan testnet ETH, jika Anda belum berpindah jaringan, ikuti langkah-langkah dibawah ini
 
@@ -34,11 +34,11 @@ Sebelum memindahkan jaringan mainnet ke testnet, pastikan Anda telah menginstall
 
 3. Website menampilkan pop up yang berisi list wallet, klik Wallet “metamask”.
 
-![](../.gitbook/assets/0777bb92-dd99-459b-9591-639c543643d5_1_105_c%20%284%29.jpeg)
+![](../.gitbook/assets/0777bb92-dd99-459b-9591-639c543643d5_1_105_c%20%281%29%20%284%29.jpeg)
 
 4. Tunggu sebentar sampai tombol bagian kanan atas menampilkan address Anda.
 
-![](../.gitbook/assets/d5276dcc-736f-4d32-9e48-ff0135b41b0c_4_5005_c%20%281%29.jpeg)
+![](../.gitbook/assets/d5276dcc-736f-4d32-9e48-ff0135b41b0c_4_5005_c%20%281%29%20%281%29.jpeg)
 
 5. Perhatikan posisi tombol berada dijaringan testnet BSC, jika Anda belum berpindah jaringan ikuti langkah-langkah dibawah ini
 

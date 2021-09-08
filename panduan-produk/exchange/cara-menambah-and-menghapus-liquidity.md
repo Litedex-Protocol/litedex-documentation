@@ -14,7 +14,7 @@ Pada tutorial ini, Kami akan menambahkan likuiditas token BNB dan LDX.
 
 2. Klik tombol "Add Liquidity".
 
-![](../../.gitbook/assets/56316df2-ae26-4716-a921-ce3b43f7df66_4_5005_c%20%281%29.jpeg)
+![](../../.gitbook/assets/56316df2-ae26-4716-a921-ce3b43f7df66_4_5005_c%20%281%29%20%281%29.jpeg)
 
 3. Pilih pasangan token yang sesuai keinginan Anda dengan cara klik "Select a token", disini kami akan menggunakan BNB dan LDX. 
 
@@ -38,7 +38,7 @@ Pada tutorial ini, Kami akan menambahkan likuiditas token BNB dan LDX.
 
 8. Jika proses transaksi telah berhasil, Anda akan melihat saldo LP di halaman [ini](https://swap.litedex.io/#/pool).
 
-![](../../.gitbook/assets/d755d3e8-afb1-4781-812a-650138f87a86_1_201_a.jpeg)
+![](../../.gitbook/assets/d755d3e8-afb1-4781-812a-650138f87a86_1_201_a%20%281%29.jpeg)
 
 ### Cara menghapus Liquidity
 
@@ -50,7 +50,7 @@ Pada tutorial ini, Kami akan menambahkan likuiditas token BNB dan LDX.
 
 3. Lalu klik "Remove".
 
-![](../../.gitbook/assets/d755d3e8-afb1-4781-812a-650138f87a86_1_201_a%20%281%29.jpeg)
+![](../../.gitbook/assets/d755d3e8-afb1-4781-812a-650138f87a86_1_201_a%20%281%29%20%281%29.jpeg)
 
 4. Dan Anda dapat menyesuaikan jumlah yang ingin dihapus dalam LP tersebut. Disini Kami menghapus 100% dari pasangan token BNB-LDX.
 

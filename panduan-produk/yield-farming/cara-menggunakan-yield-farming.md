@@ -1,6 +1,6 @@
 # Cara menggunakan Yield Farming
 
-![](../../.gitbook/assets/10.-how-to-use-farming.svg)
+![](../../.gitbook/assets/10.-how-to-use-farming%20%281%29.svg)
 
 ### Persiapan
 
@@ -22,7 +22,7 @@ Setelah Anda menemukan Token LP untuk difarming, Anda perlu menambahkan likuidit
 
 2. Pilih Wallet yang Anda gunakan, disini kami menggunakan Metamask.
 
-![](../../.gitbook/assets/155e4cae-4686-47f9-b6c9-ad9cba5d0546_1_105_c.jpeg)
+![](../../.gitbook/assets/ecaa01a7-4e71-4cb0-ad18-58da68c83775_1_105_c%20%281%29.jpeg)
 
 Lalu konfirmasikan Wallet Anda untuk menguhubungkan ke platform LITEDEX.
 

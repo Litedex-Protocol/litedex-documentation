@@ -1,6 +1,6 @@
 # Token & Smart Contract
 
-![](../.gitbook/assets/15.-token-_-smart-contract%20%281%29.svg)
+![](../.gitbook/assets/15.-token-_-smart-contract%20%282%29%20%281%29.svg)
 
 * **Ticker:** LDX
 * **Nama:** Litedex

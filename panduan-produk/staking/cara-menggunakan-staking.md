@@ -32,7 +32,7 @@ Persiapan Staking, Anda hanya perlu satu token untuk memulai menghasilkan hadiah
 
 6. Setelah Wallet Anda terhubung, pilih Token yang ingin Anda stake.‌
 
-![](../../.gitbook/assets/626a5980-c2be-4b30-b5ed-423956603c42_1_201_a%20%281%29.jpeg)
+![](../../.gitbook/assets/626a5980-c2be-4b30-b5ed-423956603c42_1_201_a%20%281%29%20%281%29.jpeg)
 
 7. Disini Kami stake token LDX, pastikan Anda memiliki token yang ingin distake.‌
 
