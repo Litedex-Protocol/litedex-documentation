@@ -9,7 +9,7 @@ Litedex have 2 mechanism of create emission supply :
 | :--- | ---: |
 | Initial Total Supply | 50.000.000 |
 | Block Emission | ~105.120.000 |
-| **Total Emission for early 1 year**  | ~155.120.000 |
+| **Total Emission at the First Year** | ~155.120.000 |
 
 The more information about **Initial Total Supply** and **Block Emission** are informed in the next section.
 
@@ -32,7 +32,7 @@ The Initial Supply of Litedex's platform \(LDX\) is about 50 million tokens, the
       <td style="text-align:left">Private Sale</td>
       <td style="text-align:left">5.00 %</td>
       <td style="text-align:right">2.500.000</td>
-      <td style="text-align:right">Early Crowdfunding</td>
+      <td style="text-align:right">Early Investor</td>
     </tr>
     <tr>
       <td style="text-align:left">Public Sale</td>
