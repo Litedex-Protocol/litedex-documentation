@@ -12,11 +12,11 @@ Before making claims faucet, you should install metamask wallet and make sure th
 
 2. Click the "Claim Faucet" button
 
-![](../.gitbook/assets/2d5a9786-fdac-483f-badb-10ee995df96a_4_5005_c%20%282%29.jpeg)
+![](../.gitbook/assets/9c3ede5c-9287-44c2-b9b5-86dcf1b28d76_4_5005_c.jpeg)
 
 3. The website displays a pop-up and click on "Claim Now"
 
-![](../.gitbook/assets/d813cd7f-3b0d-44c0-878f-3db6cb252c51_1_201_a%20%281%29%20%281%29.jpeg)
+![](../.gitbook/assets/b9f789e4-a3cd-4e74-80d2-465b96833068_1_201_a.jpeg)
 
 4. A new tab appears and displays the Rinkeby faucet page.
 
@@ -44,11 +44,11 @@ Before making a faucet claim, you have to install the metamask wallet and make s
 
 2. Click the “Claim Faucet” button
 
-![](../.gitbook/assets/2d5a9786-fdac-483f-badb-10ee995df96a_4_5005_c%20%285%29.jpeg)
+![](../.gitbook/assets/9c3ede5c-9287-44c2-b9b5-86dcf1b28d76_4_5005_c%20%282%29.jpeg)
 
 3. The website displays a pop up and click “Claim Now”
 
-![](../.gitbook/assets/d813cd7f-3b0d-44c0-878f-3db6cb252c51_1_201_a%20%281%29%20%283%29.jpeg)
+![](../.gitbook/assets/b9f789e4-a3cd-4e74-80d2-465b96833068_1_201_a%20%281%29.jpeg)
 
 4. A new tab appears showing faucet input
 
