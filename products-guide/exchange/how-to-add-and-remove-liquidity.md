@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/8.-how-to-add-_-remove-liquidity%20%281%29.svg)
 
-In Liquidity, you can add each token pair via the [liquidity ](https://swap.litedex.io/#/swap)page. In return, you will receive a trading fees for the token pairs that have been added and receive LP Tokens which you can stake in Yield Farming to earn LDX Token rewards.
+In Liquidity, you can add each token pair via the [liquidity ](https://swap.litedex.io/#/swap)page. In return, you will receive trading fees for the token pairs that have been added and receive LP Tokens which you can stake in Yield Farming to earn LDX Token rewards.
 
 ### **How to Add Liquidity**
 

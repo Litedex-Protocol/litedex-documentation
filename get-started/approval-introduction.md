@@ -28,5 +28,5 @@
 
 ![\(After the Approval process is successful, the system will execute the farming transaction\)](../.gitbook/assets/2bfd5e74-c164-4627-936f-2a73f41e978d_4_5005_c%20%283%29.jpeg)
 
-All approval procedures are carried out through smart contract which have is in high security. Therefore, LITEDEX ensure that every transaction is really secure.
+All approval procedures are carried out through Smart Contracts, which means its in high security. Therefore, LITEDEX ensure that every transaction is really secure.
 

@@ -18,7 +18,7 @@ and details appear
 
 ![](../.gitbook/assets/2bf6ce2d-6710-4933-99f9-ababbc8ce45c_4_5005_c%20%281%29.jpeg)
 
-4. Confirm on your wallet metamask
+4. Confirm on your Metamask Wallet
 
 5. Done, LDX token is in your Metamask Wallet
 
