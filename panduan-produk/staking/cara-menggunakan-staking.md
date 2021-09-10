@@ -78,7 +78,7 @@ Jika Anda ingin Menambahkan, menghapus \(mengurangi\) dan mengambil sebagian keu
 
 **Simak video dibawah ini :**
 
-
+{% embed url="https://youtu.be/FGU5Q7zC5Tg" %}
 
 #### Menambah Staking <a id="menambah-staking"></a>
 
@@ -103,6 +103,10 @@ Jika Anda ingin Menambahkan, menghapus \(mengurangi\) dan mengambil sebagian keu
 6. Berhasil! Anda telah menambahkan Stake.‌
 
 ![](../../.gitbook/assets/b1deb526-99ba-40da-aeda-f4c16e72deb7_1_201_a.jpeg)
+
+**Simak video dibawah ini :**
+
+{% embed url="https://youtu.be/C5wMLCVx-NE" %}
 
 **Mengambil keuntungan Staking**‌
 

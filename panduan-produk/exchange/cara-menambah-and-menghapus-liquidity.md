@@ -40,6 +40,10 @@ Pada tutorial ini, Kami akan menambahkan likuiditas token BNB dan LDX.
 
 ![](../../.gitbook/assets/d755d3e8-afb1-4781-812a-650138f87a86_1_201_a%20%281%29.jpeg)
 
+**Simak video dibawah ini :**
+
+{% embed url="https://youtu.be/H2qlJ6EQp\_M" %}
+
 ### Cara menghapus Liquidity
 
 1. Kunjungi halaman [Liquidity Pool](https://swap.litedex.io/#/pool).
@@ -73,4 +77,8 @@ Pada tutorial ini, Kami akan menambahkan likuiditas token BNB dan LDX.
 10. Pemberitahuan sukses muncul.
 
 ![](../../.gitbook/assets/120f7744-e1ab-4634-9781-4eb7842ad185_4_5005_c.jpeg)
+
+**Simak video dibawah ini :**
+
+
 

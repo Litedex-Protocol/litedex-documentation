@@ -48,7 +48,3 @@ Jika yakin benar, Anda bisa klik tombol “Swap Anyway”. Dan sistem memproses 
 
 {% embed url="https://youtu.be/dcqWOfDGbx0" %}
 
-\*\*\*\*
-
-
-
