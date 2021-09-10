@@ -40,7 +40,10 @@
 
 ## Developers
 
-* [Smart Contract](developers/token-and-smart-contract.md)
+* [Smart Contract](developers/token-and-smart-contract/README.md)
+  * [Litedex Exchange](developers/token-and-smart-contract/litedex-exchange/README.md)
+    * [Factory](developers/token-and-smart-contract/litedex-exchange/factory-1.md)
+    * [Router](developers/token-and-smart-contract/litedex-exchange/router.md)
 
 ---
 
