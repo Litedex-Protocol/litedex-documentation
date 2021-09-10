@@ -40,3 +40,7 @@ Once confirm, you can click the "Swap Anyway" button. And the system process wit
 
 ![](../../.gitbook/assets/5dfc93c7-f4c3-4cc2-a608-6ee618b42cd4_1_201_a.jpeg)
 
+**Watch the video below :**
+
+{% embed url="https://youtu.be/dcqWOfDGbx0" %}
+
