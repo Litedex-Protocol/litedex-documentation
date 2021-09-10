@@ -40,7 +40,7 @@
 
 ## Developers
 
-* [Token & Smart Contract](developers/token-and-smart-contract.md)
+* [Smart Contract](developers/token-and-smart-contract.md)
 
 ---
 
