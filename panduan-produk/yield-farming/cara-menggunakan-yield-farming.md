@@ -46,12 +46,6 @@ Lalu konfirmasikan Wallet Anda untuk menguhubungkan ke platform LITEDEX.
 
 7. Jika Anda tidak mengetahui cara menambahkan liquidity, Anda dapat mengikuti panduan [**Cara Menambah/Menghapus liquidity**](../exchange/cara-menambah-and-menghapus-liquidity.md) dan sesuaikan dengan pasangan token yang Anda pilih.
 
-**Simak video dibawah ini :**
-
-{% embed url="https://youtu.be/VV3LbrAj34w" %}
-
-\*\*\*\*
-
 ### Menempatkan Token LP ke Farm
 
 Pada tutorial sebelumnya, Kami anggap Anda telah Menambahkan Liquidity atau telah memiliki pasangan Token LP.

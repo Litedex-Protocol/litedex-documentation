@@ -78,8 +78,6 @@ Jika Anda ingin Menambahkan, menghapus \(mengurangi\) dan mengambil sebagian keu
 
 **Simak video dibawah ini :**
 
-{% embed url="https://www.youtube.com/watch?v=alpVlo41Bm0" %}
-
 
 
 #### Menambah Staking <a id="menambah-staking"></a>
