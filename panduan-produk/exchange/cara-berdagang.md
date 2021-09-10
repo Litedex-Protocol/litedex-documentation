@@ -44,5 +44,11 @@ Jika yakin benar, Anda bisa klik tombol “Swap Anyway”. Dan sistem memproses 
 
 ![](../../.gitbook/assets/5dfc93c7-f4c3-4cc2-a608-6ee618b42cd4_1_201_a.jpeg)
 
+**Simak video dibawah ini :**
+
+{% embed url="https://youtu.be/dcqWOfDGbx0" %}
+
+\*\*\*\*
+
 
 

@@ -34,6 +34,12 @@ klik tombol “Give me Ether”, pilih jumlah ether sesuai yang Anda inginkan.
 
 7. Selesai dan cek saldo di metamask Anda
 
+**Simak video dibawah ini :**
+
+{% embed url="https://youtu.be/iLP0hP\_NCmM" %}
+
+
+
 ### **Klaim Faucet BSC**
 
 #### **Persiapan**

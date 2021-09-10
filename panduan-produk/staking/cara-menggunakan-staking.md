@@ -76,6 +76,12 @@ Jika Anda ingin Menambahkan, menghapus \(mengurangi\) dan mengambil sebagian keu
 
 ![](../../.gitbook/assets/b1deb526-99ba-40da-aeda-f4c16e72deb7_1_201_a%20%282%29.jpeg)
 
+**Simak video dibawah ini :**
+
+{% embed url="https://www.youtube.com/watch?v=alpVlo41Bm0" %}
+
+
+
 #### Menambah Staking <a id="menambah-staking"></a>
 
 1. Kunjungi halaman [Staking](https://app.litedex.io/staking).‌
