@@ -68,6 +68,10 @@ Jika Anda telah memasukkan jumlahnya, Anda dapat klik “Farm” untuk mengeksek
 
 ![](../../.gitbook/assets/6f23379f-cf1e-471b-91c8-a5afa44b2a56_1_201_a.jpeg)
 
+**Simak video dibawah ini :**
+
+{% embed url="https://youtu.be/NgfI94H-OQc" %}
+
 ### **Menambah atau menghapus \(mengurangi\) Token LP dari Farming**
 
 Jika Anda ingin menambah, menghapus \(mengurangi\) dan mengambil sebagian keuntungan dari Farming. Anda dapat melakukannya dengan mudah.
@@ -90,6 +94,10 @@ Jika Anda ingin menambah, menghapus \(mengurangi\) dan mengambil sebagian keuntu
 
 ![](../../.gitbook/assets/52c39d19-7b3e-456a-9e40-815c86348db7_4_5005_c.jpeg)
 
+**Simak video dibawah ini :**
+
+{% embed url="https://youtu.be/jST0VG3k2JM" %}
+
 #### **Menambahkan Token LP**
 
 1. ****Pada halaman [Farming](https://app.litedex.io/farming), cari  Farming tempat Anda memiliki Token LP, dan klik baris dimana saja untuk melihat lebih detail.
@@ -110,6 +118,12 @@ Jika Anda ingin menambah, menghapus \(mengurangi\) dan mengambil sebagian keuntu
 
 ![](../../.gitbook/assets/9dffd30c-31ac-4050-a407-45ba91e30800_1_201_a%20%281%29.jpeg)
 
+**Simak video dibawah ini :**
+
+{% embed url="https://youtu.be/vcA\_eKmFC48" %}
+
+\*\*\*\*
+
 #### **Mengambil keuntungan**
 
 1. ****Kunjungi halaman [Farming](https://app.litedex.io/farming).
@@ -129,4 +143,8 @@ Jika Anda ingin menambah, menghapus \(mengurangi\) dan mengambil sebagian keuntu
 5. Pengumpulan hadiah berhasil! Anda bisa cek saldo Wallet yang dimiliki.
 
 ![](../../.gitbook/assets/3ce1b41e-3ff2-4375-bd82-ab149639089c_4_5005_c.jpeg)
+
+**Simak video dibawah ini :**
+
+{% embed url="https://youtu.be/IP7v5189\_Y0" %}
 

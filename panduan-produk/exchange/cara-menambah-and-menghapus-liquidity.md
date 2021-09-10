@@ -78,7 +78,5 @@ Pada tutorial ini, Kami akan menambahkan likuiditas token BNB dan LDX.
 
 ![](../../.gitbook/assets/120f7744-e1ab-4634-9781-4eb7842ad185_4_5005_c.jpeg)
 
-**Simak video dibawah ini :**
-
 
 
