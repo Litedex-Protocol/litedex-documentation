@@ -32,6 +32,10 @@ Before making claims faucet, you should install metamask wallet and make sure th
 
 7. Check balances in your metamask
 
+**Watch the video below :**
+
+{% embed url="https://youtu.be/iLP0hP\_NCmM" %}
+
 ### BSC Faucet Claim
 
 **Preparation**

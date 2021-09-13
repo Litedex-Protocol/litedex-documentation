@@ -44,6 +44,7 @@
   * [Litedex Exchange](developers/token-and-smart-contract/litedex-exchange/README.md)
     * [Factory](developers/token-and-smart-contract/litedex-exchange/factory-1.md)
     * [Router](developers/token-and-smart-contract/litedex-exchange/router.md)
+  * [Yield Farming](developers/token-and-smart-contract/yield-farming.md)
 
 ---
 

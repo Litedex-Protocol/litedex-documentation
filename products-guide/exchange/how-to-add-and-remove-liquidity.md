@@ -40,6 +40,10 @@ In this tutorial, we will add liquidity to BNB and LDX tokens.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-Mfq-xr1Ba1zZ4TSvXC0%2F-Mh1TmElVDw8pf7WOiUU%2F-Mh234RRLUE2ZnW4yw4o%2FD755D3E8-AFB1-4781-812A-650138F87A86_1_201_a.jpeg?alt=media&token=a0ff3fb1-6ab3-43de-a9f6-dbc92597b5d0)
 
+**Watch the video below :**
+
+{% embed url="https://youtu.be/H2qlJ6EQp\_M" %}
+
 ### **How to Remove Liquidity**
 
 1. Visit the [Liquidity Pool](https://swap.litedex.io/#/pool) page.

@@ -3,7 +3,7 @@
 Litedex have 2 mechanism of create emission supply :
 
 1. Initial Total Supply
-2. Block Emission for deFi Ecosystem
+2. Block Emission for DeFi Ecosystem
 
 | **Mechanism** | **Emission Rate \(LDX\)** |
 | :--- | ---: |
@@ -15,7 +15,7 @@ The more information about **Initial Total Supply** and **Block Emission** are i
 
 ## Initial Total Supply
 
-The Initial Supply of Litedex's platform \(LDX\) is about 50 million tokens, the initial token supply is used to build an ecosystem, partnership, etc. Which will be used for several purposes as follows : 
+The Initial Supply of Litedex's platform \(LDX\) is about 50 million tokens, the initial token supply is used to build an ecosystem, partnership, etc which will be used for several purposes as follows : 
 
 <table>
   <thead>
@@ -112,7 +112,7 @@ The Initial Supply of Litedex's platform \(LDX\) is about 50 million tokens, the
 | **Metric** | **Emission/block \(LDX\)** | **Emission/day \(LDX\)** |
 | :--- | ---: | ---: |
 | Emission | 10 per block | ~288.000 per day |
-| **Effective Emission** | **10 per block** | **~288.0000 per day** |
+| **Effective Emission** | **10 per block** | **~288.000 per day** |
 
 In addition to the above, a dynamic amount of LDX is also minted at a rate of 9.09%. This means that if 100 LDX are harvested, then 9.09 LDX is minted in addition and will be burned.
 
@@ -169,7 +169,7 @@ In addition to the above, a dynamic amount of LDX is also minted at a rate of 9.
   </tbody>
 </table>
 
-## **Other Deflationary Mechanics** <a id="other-deflationary-mechanics"></a>
+## **Other Deflationary Mechanism** <a id="other-deflationary-mechanics"></a>
 
 At present, LDX is also burned in the following ways:
 

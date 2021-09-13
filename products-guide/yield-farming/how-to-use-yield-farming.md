@@ -42,7 +42,11 @@ Then confirm your Wallet to connect to the LITEDEX platform.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-Mfq-xr1Ba1zZ4TSvXC0%2F-Mh2DdTJRJSE6iZORIeM%2F-Mh2xtt7TbdIHLjiO8yR%2FBD7E2B36-BDE7-40F0-993A-9C1DA22B22A2_1_105_c.jpeg?alt=media&token=6563d57e-8cfb-4148-a731-20c370915843)
 
-7. If you need a guide on how to add liquidity, you can follow the [**How to Add & Remove Liquidity**](../exchange/how-to-add-and-remove-liquidity.md) guide and customize it with your chosen token pair.
+**Watch the video below :**
+
+{% embed url="https://youtu.be/ha3eh69o6HE" %}
+
+If you need a guide on how to add liquidity, you can follow the [**How to Add & Remove Liquidity**](../exchange/how-to-add-and-remove-liquidity.md) guide and customize it with your chosen token pair.
 
 ### **Putting LP Tokens into the Farm**
 
@@ -63,6 +67,10 @@ If you have entered the amount, you can click “Farm” to execute.
 4. Done! You have successfully Farm.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-Mfq-xr1Ba1zZ4TSvXC0%2F-Mh2DdTJRJSE6iZORIeM%2F-Mh3-fIBZ2ZMMU5Qquqg%2F6F23379F-CF1E-471B-91C8-A5AFA44B2A56_1_201_a.jpeg?alt=media&token=b939a7bf-4098-46ef-b008-f00fcf497886)
+
+**Watch the video below :**
+
+{% embed url="https://youtu.be/NgfI94H-OQc" %}
 
 ### **Add or remove LP Tokens from Farming**
 
@@ -86,6 +94,10 @@ If you want to add, delete, reducing and withdraw from Farming, it can be easily
 
 ![](https://gblobscdn.gitbook.com/assets%2F-Mfq-xr1Ba1zZ4TSvXC0%2F-Mh2DdTJRJSE6iZORIeM%2F-Mh345mYveqq4_EfmLF8%2F52C39D19-7B3E-456A-9E40-815C86348DB7_4_5005_c.jpeg?alt=media&token=ed86891d-fa54-431b-ab53-7b15454e9096)
 
+**Watch the video below :**
+
+{% embed url="https://youtu.be/jST0VG3k2JM" %}
+
 #### **Adding LP Token**
 
 1. On the [Farming](https://app.litedex.io/farming) page, locate the Farm where you have the LP Token, and click on any row to see more details.
@@ -106,6 +118,10 @@ If you want to add, delete, reducing and withdraw from Farming, it can be easily
 
 ![](https://gblobscdn.gitbook.com/assets%2F-Mfq-xr1Ba1zZ4TSvXC0%2F-Mh2DdTJRJSE6iZORIeM%2F-Mh36imvQyvEMUBXltsb%2F9DFFD30C-31AC-4050-A407-45BA91E30800_1_201_a.jpeg?alt=media&token=e5536496-643b-46f2-bc32-d9f567b8d0e9)
 
+**Watch the video below :**
+
+{% embed url="https://youtu.be/vcA\_eKmFC48" %}
+
 #### **Redeem Profit**
 
 1. Visit the [Farming](https://app.litedex.io/farming) page.
@@ -125,4 +141,8 @@ If you want to add, delete, reducing and withdraw from Farming, it can be easily
 5. Profit collection successful! You can check your Wallet for balance.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-Mfq-xr1Ba1zZ4TSvXC0%2F-Mh2DdTJRJSE6iZORIeM%2F-Mh37NgFN_5Zik52Mdna%2F3CE1B41E-3FF2-4375-BD82-AB149639089C_4_5005_c.jpeg?alt=media&token=6e8d144b-de78-4cdd-bb8c-88e049e7429b)
+
+**Watch the video below :**
+
+{% embed url="https://youtu.be/IP7v5189\_Y0" %}
 

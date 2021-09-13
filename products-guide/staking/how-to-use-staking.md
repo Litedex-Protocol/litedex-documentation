@@ -46,6 +46,10 @@ In Staking setup, only one token will be needed in order to start earning for re
 
 ![](../../.gitbook/assets/b1deb526-99ba-40da-aeda-f4c16e72deb7_1_201_a%20%285%29.jpeg)
 
+**Watch the video below :**
+
+{% embed url="https://youtu.be/1nCKoDrQwb8" %}
+
 ### **Add or remove Staking.** <a id="add-or-remove-staking"></a>
 
 If you want to Add, remove and redeem the profit of Staking, it can be easily be done as we will provide the guide to it.‌
@@ -72,6 +76,10 @@ If you want to Add, remove and redeem the profit of Staking, it can be easily be
 
 ![](../../.gitbook/assets/b1deb526-99ba-40da-aeda-f4c16e72deb7_1_201_a%20%284%29.jpeg)
 
+**Watch the video below :**
+
+{% embed url="https://youtu.be/FGU5Q7zC5Tg" %}
+
 #### **Add Staking** <a id="add-staking"></a>
 
 1. Visit the [Staking](https://app.litedex.io/staking) page.‌
@@ -95,6 +103,10 @@ If you want to Add, remove and redeem the profit of Staking, it can be easily be
 6. Successful. You have added Stakes.‌
 
 ![](../../.gitbook/assets/b1deb526-99ba-40da-aeda-f4c16e72deb7_1_201_a%20%284%29.jpeg)
+
+**Watch the video below :**
+
+{% embed url="https://youtu.be/C5wMLCVx-NE" %}
 
 #### **To collect profit of Staking** <a id="to-collect-profit-of-staking"></a>
 
