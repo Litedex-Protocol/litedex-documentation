@@ -40,11 +40,11 @@
 
 ## Developers
 
-* [Smart Contract](developers/token-and-smart-contract/README.md)
-  * [Litedex Exchange](developers/token-and-smart-contract/litedex-exchange/README.md)
-    * [Factory](developers/token-and-smart-contract/litedex-exchange/factory-1.md)
-    * [Router](developers/token-and-smart-contract/litedex-exchange/router.md)
-  * [Yield Farming](developers/token-and-smart-contract/yield-farming.md)
+* [Smart Contract](developers/smart-contract/README.md)
+  * [Litedex Exchange](developers/smart-contract/exchange/README.md)
+    * [Factory](developers/smart-contract/exchange/factory.md)
+    * [Router](developers/smart-contract/exchange/router.md)
+  * [Yield Farming](developers/smart-contract/yield-farming.md)
 
 ---
 
