@@ -20,7 +20,7 @@ Sebelum memindahkan jaringan mainnet ke testnet, pastikan Anda telah menginstall
 
 5. Perhatikan tombol ini, jika posisi Anda berada di mainnet, klik tombol testnet.
 
-![](../.gitbook/assets/ab178446-611a-441c-8894-33fed21af0c8_4_5005_c%20%281%29.jpeg)
+![](../.gitbook/assets/ab178446-611a-441c-8894-33fed21af0c8_4_5005_c%20%282%29.jpeg)
 
 ![](../.gitbook/assets/10d06ba6-3a7f-494e-88e4-7d5af0d8a92a_4_5005_c.jpeg)
 
@@ -28,7 +28,7 @@ Sebelum memindahkan jaringan mainnet ke testnet, pastikan Anda telah menginstall
 
 ![](../.gitbook/assets/d56d148a-be58-44d6-8648-825388ee675b_4_5005_c.jpeg)
 
-![](../.gitbook/assets/294e0a0b-b1c6-460e-b7e5-bca3b586e56c_1_105_c.jpeg)
+![](../.gitbook/assets/294e0a0b-b1c6-460e-b7e5-bca3b586e56c_1_105_c%20%283%29.jpeg)
 
 7. Selesai, perpindahan jaringan ETH telah dilakukan.
 
@@ -54,13 +54,13 @@ Sebelum memindahkan jaringan mainnet ke testnet, pastikan Anda telah menginstall
 
 ![](../.gitbook/assets/ab178446-611a-441c-8894-33fed21af0c8_4_5005_c.jpeg)
 
-![](../.gitbook/assets/10d06ba6-3a7f-494e-88e4-7d5af0d8a92a_4_5005_c%20%281%29.jpeg)
+![](../.gitbook/assets/10d06ba6-3a7f-494e-88e4-7d5af0d8a92a_4_5005_c%20%282%29.jpeg)
 
 6. Dan klik tombol BSC.
 
-![](../.gitbook/assets/d56d148a-be58-44d6-8648-825388ee675b_4_5005_c%20%281%29.jpeg)
+![](../.gitbook/assets/d56d148a-be58-44d6-8648-825388ee675b_4_5005_c%20%282%29.jpeg)
 
-![](../.gitbook/assets/b11aaee5-c1eb-4d25-8d0e-64c24fdf0e9a_1_105_c.jpeg)
+![](../.gitbook/assets/b11aaee5-c1eb-4d25-8d0e-64c24fdf0e9a_1_105_c%20%281%29.jpeg)
 
 7. Selesai, perpindahan jaringan BSC telah dilakukan.
 
