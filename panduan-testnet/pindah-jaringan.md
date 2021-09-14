@@ -28,7 +28,7 @@ Sebelum memindahkan jaringan mainnet ke testnet, pastikan Anda telah menginstall
 
 ![](../.gitbook/assets/d56d148a-be58-44d6-8648-825388ee675b_4_5005_c.jpeg)
 
-7. Selesai, perpindahan jaringan ETH telah dilakukan.
+7. Perpindahan jaringan berhasil dilakukan.
 
 ![](../.gitbook/assets/294e0a0b-b1c6-460e-b7e5-bca3b586e56c_1_105_c%20%281%29.jpeg)
 
@@ -60,7 +60,7 @@ Sebelum memindahkan jaringan mainnet ke testnet, pastikan Anda telah menginstall
 
 ![](../.gitbook/assets/d56d148a-be58-44d6-8648-825388ee675b_4_5005_c%20%282%29.jpeg)
 
-7. Selesai, perpindahan jaringan BSC telah dilakukan.
+7. Perpindahan jaringan berhasil dilakukan.
 
 ![](../.gitbook/assets/b11aaee5-c1eb-4d25-8d0e-64c24fdf0e9a_1_105_c%20%282%29.jpeg)
 
