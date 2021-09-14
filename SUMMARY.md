@@ -29,7 +29,7 @@
 ## Guide Testnet
 
 * [Mainnet & Testnet Network](guide-testnet/mainnet-and-testnet-network.md)
-* [Network Switch](guide-testnet/network-switch.md)
+* [Switch Network](guide-testnet/switch-network.md)
 * [Faucet Introduction](guide-testnet/faucet-introduction.md)
 * [How to Claim Faucet](guide-testnet/how-to-claim-faucet.md)
 
