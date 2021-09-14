@@ -459,13 +459,9 @@ Receive an exact amount of output tokens for as few input tokens as possible.
 ## Interface
 
 ```text
-import '@uniswap/v2-core/contracts/interfaces/IPancakeRouter.sol';
-```
-
-```text
 pragma solidity >=0.6.2;
 
-interface IPancakeRouter01 {
+interface ILitedexRouter01 {
     function factory() external pure returns (address);
     function WETH() external pure returns (address);
 
@@ -559,11 +555,9 @@ interface IPancakeRouter01 {
     function getAmountsIn(uint amountOut, address[] calldata path) external view returns (uint[] memory amounts);
 }
 
-// File: contracts\interfaces\IPancakeRouter02.sol
-
 pragma solidity >=0.6.2;
 
-interface IPancakeRouter02 is IPancakeRouter01 {
+interface ILitedexRouter02 is ILitedexRouter01 {
     function removeLiquidityETHSupportingFeeOnTransferTokens(
         address token,
         uint liquidity,
