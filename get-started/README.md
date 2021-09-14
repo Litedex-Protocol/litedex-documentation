@@ -6,7 +6,7 @@ Before beginning a trade, We strongly recommend the traders to understand and st
 
 ### Preparation Before Trade <a id="preparation-before-trade"></a>
 
-Preparation before trading, traders must know what is needed to make a transaction. Transacting on a decentralized finance \(DeFi\), you need a wallet to store personal funds. Therefore, the LITEDEX Team provides education about Wallet:‌
+Preparation before trading, traders must know what is needed to make a transaction. Transacting on a decentralized exchange, you need a wallet to store personal funds. Therefore, the LITEDEX Team provides education about Wallet:‌
 
 1. ​[**Wallet Introduction**](wallet-introduction.md)**​**
 2. **​**[**How to make a Wallet**](how-to-make-a-wallet.md)**​**
