@@ -6,7 +6,7 @@ Sebelum Anda melakukan perdagangan, Kami sangat menyarankan untuk memahami, memp
 
 ### Persiapan sebelum berdagang <a id="persiapan-sebelum-berdagang"></a>
 
-Persiapan sebelum berdagang, pedagang harus mengetahui apa saja yang dibutuhkan untuk melakukan transaksi. Dalam bertransaksi di keuangan terdesentralisasi \(Defi\), pasti membutuhkan Wallet untuk menyimpan dana pribadi. Oleh karena itu, Tim LITEDEX memberikan edukasi tentang Wallet:‌
+Persiapan sebelum berdagang, pedagang harus mengetahui apa saja yang dibutuhkan untuk melakukan transaksi. Dalam bertransaksi di pertukaran terdesentralisasi \(Defi\), pasti membutuhkan Wallet untuk menyimpan dana pribadi. Oleh karena itu, Tim LITEDEX memberikan edukasi tentang Wallet:‌
 
 #### 1. [Pengenalan Wallet](pengenalan-wallet.md)​ <a id="1-pengenalan-wallet"></a>
 
