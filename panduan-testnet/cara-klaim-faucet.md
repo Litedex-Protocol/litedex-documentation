@@ -70,9 +70,7 @@ Sebelum melakukan klaim faucet, Anda harus menginstall wallet metamask dan pasti
 
 7. Selesai, cek saldo wallet anda.
 
-Simak video dibawah ini :
+**Simak video dibawah ini :**
 
-
-
-
+{% embed url="https://youtu.be/18IwcQ\_Wl64" %}
 
