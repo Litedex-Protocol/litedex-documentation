@@ -128,3 +128,7 @@ If you want to Add, remove and redeem the profit of Staking, it can be easily be
 
 ![](https://gblobscdn.gitbook.com/assets%2F-Mfq-xr1Ba1zZ4TSvXC0%2F-Mh2DdTJRJSE6iZORIeM%2F-Mh2o-BkBvvtFxj6ApoU%2F01218E78-2DBF-40A9-9D21-EAA501B1EE48_4_5005_c.jpeg?alt=media&token=3649664a-3bcb-48b4-9607-ca8fbca7273d)
 
+**Watch the video below :**
+
+{% embed url="https://youtu.be/bTQlUvBVSKs" %}
+
