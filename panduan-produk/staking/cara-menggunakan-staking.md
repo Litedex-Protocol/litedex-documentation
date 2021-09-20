@@ -128,3 +128,7 @@ Jika Anda ingin Menambahkan, menghapus \(mengurangi\) dan mengambil sebagian keu
 
 ![](../../.gitbook/assets/01218e78-2dbf-40a9-9d21-eaa501b1ee48_4_5005_c.jpeg)
 
+**Simak video dibawah ini :**
+
+{% embed url="https://youtu.be/bTQlUvBVSKs" %}
+
