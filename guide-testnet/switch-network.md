@@ -32,6 +32,10 @@ Before moving the mainnet network to testnet, make sure you have installed the m
 
 ![](../.gitbook/assets/294e0a0b-b1c6-460e-b7e5-bca3b586e56c_1_105_c.jpeg)
 
+**Watch the video below :**
+
+{% embed url="https://youtu.be/5ONCYg8BLco" %}
+
 ### BSC Network
 
 Before moving the mainnet network to testnet, make sure you have installed the metamask wallet. If you haven't installed it yet, we have provided tutorials and explanations [here](../get-started/how-to-make-a-wallet.md).
