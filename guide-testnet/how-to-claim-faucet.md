@@ -66,3 +66,7 @@ Before making a faucet claim, you have to install the metamask wallet and make s
 
 7. And check your wallet balance
 
+**Watch the video below :**
+
+{% embed url="https://youtu.be/18IwcQ\_Wl64" %}
+
