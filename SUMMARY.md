@@ -53,4 +53,5 @@
 * [Telegram](https://t.me/litedexprotocol)
 * [Twitter](https://twitter.com/litedexprotocol)
 * [Instragram](https://www.instagram.com/litedexprotocol/)
+* [Medium](https://litedex.medium.com/)
 
