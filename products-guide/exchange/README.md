@@ -1,6 +1,6 @@
 # Exchange
 
-![](../../.gitbook/assets/4.-decentralized-protocol.svg)
+![](../../.gitbook/assets/4.-decentralized-protocol%20%283%29.svg)
 
 A **decentralized exchange** is a cryptocurrency exchange that utilize smart contract to allow investors to trade between users automatically. Decentralized exchange do not use any third party, centralized authority and do not require personal data to process the transactions. An addition to it, there will be no risk of server downtime as the platform hosting is distributed through nodes and the decentralized exchange system protected from being hack because it is being use in most of the computers in the world.‌
 

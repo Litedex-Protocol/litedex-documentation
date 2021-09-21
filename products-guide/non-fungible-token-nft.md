@@ -1,5 +1,7 @@
 # Non-Fungible Token \(NFT\)
 
+![](../.gitbook/assets/18.-nft%20%281%29.svg)
+
 **Non-Fungible Token \(NFT\)** is a crypto asset or digitized version of a real asset on the blockchain network, having a unique metadata identification code and non-exchangeable token. Due to its unique nature, NFT cannot be duplicated. And utilized by the artists, musicians, and the property developer.
 
 **LITEDEX NFT Marketplace**
