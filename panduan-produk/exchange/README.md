@@ -1,6 +1,6 @@
 # Exchange
 
-![](../../.gitbook/assets/4.-decentralized-protocol%20%281%29.svg)
+![](../../.gitbook/assets/4.-decentralized-protocol%20%282%29.svg)
 
 **Pertukaran terdesentralisasi** \(Decentralized Exchange\) adalah bursa mata uang cryptocurrency yang memanfaatkan smart contract untuk memungkinkan investor berdagang antara pengguna satu dengan pengguna yang lain secara otomatis. Pertukaran terdesentralisasi tidak menggunakan pihak ketiga, otoritas terpusat dan tidak membutuhkan data pribadi untuk proses transaksi. Kelebihan lainnya adalah tidak akan mengalami risiko downtime server karena hosting didistribusikan melalui node dan sistem pertukaran terdesentralisasi sangat sulit diretas karena ada di seluruh komputer di dunia.‌
 

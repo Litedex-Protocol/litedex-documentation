@@ -1,5 +1,7 @@
 # Non-Fungible Tokan \(NFT\)
 
+![](../.gitbook/assets/18.-nft.svg)
+
 **Non-Fungible Token \(NFT\)** adalah asset crypto atau versi digitalisasi dari sebuah asset nyata di jaringan blockchain, memiliki kode identifikasi metadata yang unik dan token yang tidak dapat ditukarkan. Karena sifatnya yang unik, NFT tidak dapat diduplikasi. Dan dimanfaatkan oleh para seniman, musisi, dan developer properti.
 
 **LITEDEX NFT Marketplace**
