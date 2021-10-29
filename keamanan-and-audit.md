@@ -4,8 +4,7 @@
 
 LITEDEX sebagai platform yang mengedepankan keamanan bagi pengguna. Kami menjadwalkan pemeriksaan rutin terhadap smart contract untuk terus meningkatkan standar keamanan terbaik. Dan menugaskan perusahaan Audit keamanan blockchain terbaik. Berikut bukti atau proses Audit Kami:‌
 
-* ​[Certik](https://www.certik.org) - Dalam proses ⏳
-* ​[Haechi Audit](https://audit.haechi.io) - Dalam proses ⏳
+* ​[Certik](https://leaderboard.certik.io/projects/litedex) - Sebagian terselesaikan
 
 ### **Smart Contract Security** <a href="smart-contract-security" id="smart-contract-security"></a>
 
