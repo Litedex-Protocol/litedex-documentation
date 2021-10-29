@@ -1,10 +1,10 @@
 # Pengenalan Wallet
 
-![](../.gitbook/assets/6.-wallet%20%281%29%20%281%29.svg)
+![](<../.gitbook/assets/6. WALLET.svg>)
 
 **Wallet** adalah program yang merupakan kunci yang digunakan untuk menyimpan, mengirim, dan menerima berbagai token cryptocurrency di jaringan Blockchain. Dan LITEDEX telah mendukung Wallet cryptocurrency ternama yang telah disediakan daftar listnya.‌
 
-### Wallet yang tersedia: <a id="wallet-yang-tersedia"></a>
+### Wallet yang tersedia: <a href="wallet-yang-tersedia" id="wallet-yang-tersedia"></a>
 
 * Metamask
 * Safepal
@@ -13,4 +13,3 @@
 * HuobiWallet
 * MathWallet
 * Dan Wallet yang didukung WalletConnect.
-

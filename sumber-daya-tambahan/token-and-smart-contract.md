@@ -1,9 +1,8 @@
 # Token & Smart Contract
 
-![](../.gitbook/assets/15.-token-_-smart-contract%20%282%29%20%281%29.svg)
+![](<../.gitbook/assets/15.-token-\_-smart-contract (2) (1).svg>)
 
-* **Ticker:** LDX
+* **Ticker: **LDX
 * **Nama:** Litedex
-* **Contract Address:** [0x690db6e3a82d7883990c9ac41b17be9f4ba836d2](https://bscscan.com/token/0x690db6e3a82d7883990c9ac41b17be9f4ba836d2)
-* **Network:** Binance Smart Chain \(BEP20\) 
-
+* **Contract Address: **[0x690db6e3a82d7883990c9ac41b17be9f4ba836d2](https://bscscan.com/token/0x690db6e3a82d7883990c9ac41b17be9f4ba836d2)
+* **Network: **Binance Smart Chain (BEP20)&#x20;

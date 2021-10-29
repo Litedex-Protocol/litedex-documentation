@@ -7,4 +7,3 @@
 ### Jaringan Testnet
 
 **Jaringan Testnet** adalah Jaringan blockchain alternatif yang akan digunakan untuk pengujian. Coin testnet berbeda dari coin yang asli dan tidak memiliki nilai apapun. Hal ini memungkinkan pengembang aplikasi atau penguji untuk bereksperimen tanpa harus menggunakan Coin nyata atau khawatir akan memutus rantai blockchain utama.
-

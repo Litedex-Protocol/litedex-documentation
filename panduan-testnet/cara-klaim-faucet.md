@@ -1,42 +1,42 @@
 # Cara Klaim Faucet
 
-### **Klaim Faucet ETH \(Rinkeby\)**
+### **Klaim Faucet ETH (Rinkeby)**
 
-#### **Persiapan** 
+#### **Persiapan **
 
-Sebelum melakukan klaim faucet, Anda harus menginstall wallet metamask dan pastikan jaringan berada di ETH testnet \(rinkeby\) dan memiliki akun twitter.
+Sebelum melakukan klaim faucet, Anda harus menginstall wallet metamask dan pastikan jaringan berada di ETH testnet (rinkeby) dan memiliki akun twitter.
 
 #### **Memulai klaim faucet ETH**
 
-1. Kunjungi halaman [app.litedex.io](http://app.litedex.io)
+1\. Kunjungi halaman [app.litedex.io](http://app.litedex.io)
 
-2. Klik tombol “Claim Faucet”
+2\. Klik tombol “Claim Faucet”
 
-![](../.gitbook/assets/9c3ede5c-9287-44c2-b9b5-86dcf1b28d76_4_5005_c%20%283%29.jpeg)
+![](<../.gitbook/assets/9C3EDE5C-9287-44C2-B9B5-86DCF1B28D76\_4\_5005\_c (2).jpeg>)
 
-3. Website menampilkan pop up dan klik “Claim Now”
+3\. Website menampilkan pop up dan klik “Claim Now”
 
-![](../.gitbook/assets/b9f789e4-a3cd-4e74-80d2-465b96833068_1_201_a%20%283%29.jpeg)
+![](<../.gitbook/assets/B9F789E4-A3CD-4E74-80D2-465B96833068\_1\_201\_a (4).jpeg>)
 
-4. Tab baru muncul dan menampilkan halaman faucet rinkeby.
+4\. Tab baru muncul dan menampilkan halaman faucet rinkeby.
 
-![](../.gitbook/assets/54043853-e8a1-4a65-8ecf-70cefe74ca4c_1_105_c%20%281%29%20%281%29.jpeg)
+![](../.gitbook/assets/54043853-E8A1-4A65-8ECF-70CEFE74CA4C\_1\_105\_c.jpeg)
 
-5. Copy address Wallet Anda dan pastekan pada twit akun twitter.
+5\. Copy address Wallet Anda dan pastekan pada twit akun twitter.
 
-![](../.gitbook/assets/abe28c4e-97c1-40e9-b253-392edbe87083_1_201_a%20%281%29%20%281%29.jpeg)
+![](../.gitbook/assets/ABE28C4E-97C1-40E9-B253-392EDBE87083\_1\_201\_a.jpeg)
 
-6. Copy URL twit tersebut dan pastekan pada input halaman website faucet rinkeby, 
+6\. Copy URL twit tersebut dan pastekan pada input halaman website faucet rinkeby,&#x20;
 
 klik tombol “Give me Ether”, pilih jumlah ether sesuai yang Anda inginkan.
 
-![](../.gitbook/assets/8162b7a4-84ba-4e2b-ac90-8ead17a3a315_1_201_a%20%281%29.jpeg)
+![](../.gitbook/assets/8162b7a4-84ba-4e2b-ac90-8ead17a3a315\_1\_201\_a.jpeg)
 
-7. Selesai dan cek saldo di metamask Anda
+7\. Selesai dan cek saldo di metamask Anda
 
 **Simak video dibawah ini :**
 
-{% embed url="https://youtu.be/iLP0hP\_NCmM" %}
+{% embed url="https://youtu.be/iLP0hP_NCmM" %}
 
 
 
@@ -48,29 +48,28 @@ Sebelum melakukan klaim faucet, Anda harus menginstall wallet metamask dan pasti
 
 #### **Memulai klaim faucet BSC**
 
-1. Kunjungi halaman [app.litedex.io](http://app.litedex.io)
+1\. Kunjungi halaman [app.litedex.io](http://app.litedex.io)
 
-2. Klik tombol “Claim Faucet”.
+2\. Klik tombol “Claim Faucet”.
 
-![](../.gitbook/assets/9c3ede5c-9287-44c2-b9b5-86dcf1b28d76_4_5005_c%20%281%29.jpeg)
+![](<../.gitbook/assets/9C3EDE5C-9287-44C2-B9B5-86DCF1B28D76\_4\_5005\_c (3).jpeg>)
 
-3. Website menampilkan pop up dan klik “Claim Now”
+3\. Website menampilkan pop up dan klik “Claim Now”
 
-![](../.gitbook/assets/b9f789e4-a3cd-4e74-80d2-465b96833068_1_201_a%20%284%29.jpeg)
+![](<../.gitbook/assets/B9F789E4-A3CD-4E74-80D2-465B96833068\_1\_201\_a (5).jpeg>)
 
-4. Tab baru muncul menampilkan input faucet.
+4\. Tab baru muncul menampilkan input faucet.
 
-![](../.gitbook/assets/54b3e016-2895-4675-9875-5c705c63d4c5_1_105_c%20%281%29.jpeg)
+![](../.gitbook/assets/54b3e016-2895-4675-9875-5c705c63d4c5\_1\_105\_c.jpeg)
 
-5. Copy address Wallet Anda, paste kan pada input faucet dan klik tombol “Give me BNB”.
+5\. Copy address Wallet Anda, paste kan pada input faucet dan klik tombol “Give me BNB”.
 
-![](../.gitbook/assets/8c6ff5c5-9ce4-48c4-bbd4-e871ec45be2b_1_105_c%20%281%29.jpeg)
+![](../.gitbook/assets/8C6FF5C5-9CE4-48C4-BBD4-E871EC45BE2B\_1\_105\_c.jpeg)
 
-6. Tunggu proses pengiriman coin BNB ke address Anda.
+6\. Tunggu proses pengiriman coin BNB ke address Anda.
 
-7. Selesai, cek saldo wallet anda.
+7\. Selesai, cek saldo wallet anda.
 
 **Simak video dibawah ini :**
 
-{% embed url="https://youtu.be/18IwcQ\_Wl64" %}
-
+{% embed url="https://youtu.be/18IwcQ_Wl64" %}
