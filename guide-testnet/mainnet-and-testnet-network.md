@@ -7,4 +7,3 @@
 ### Testnet Network
 
 **Testnet Network** is an alternative blockchain Network to be used for testing. The testnet coins are different from the real coins and do not have any value. This allows app developers or testers to experiment without having to use real Coins or worrying about breaking the main blockchain chain.
-
