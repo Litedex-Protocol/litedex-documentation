@@ -7,9 +7,9 @@ Litedex have 2 mechanism of create emission supply :
 
 | **Mechanism**                        | **Emission Rate (LDX)** |
 | ------------------------------------ | ----------------------: |
-| Initial Total Supply                 |              50.000.000 |
+| Initial Total Supply                 |             500.000.000 |
 | Block Emission                       |           \~105.120.000 |
-| **Total Emission at the First Year** |           \~155.120.000 |
+| **Total Emission at the First Year** |           \~605.120.000 |
 
 The more information about **Initial Total Supply **and **Block Emission **are informed in the next section.
 
@@ -17,17 +17,17 @@ The more information about **Initial Total Supply **and **Block Emission **are i
 
 The Initial Supply of Litedex's platform (LDX) is about 50 million tokens, the initial token supply is used to build an ecosystem, partnership, etc which will be used for several purposes as follows :&#x20;
 
-| **Section**              | % of Total Supply |     Size (LDX) |                                                                                Description |
-| ------------------------ | ----------------- | -------------: | -----------------------------------------------------------------------------------------: |
-| Private Sale             | 5.00 %            |      2.500.000 |                                                                            Early Investor  |
-| Public Sale              | 25.00 %           |     12.500.000 |                                                                            ICO - IEO - IDO |
-| Research & Development   | 10.00 %           |      5.000.000 |  <p>Unlocked in 1 month after </p><p>platform launched and </p><p>lasts for 5 months  </p> |
-| Partnership & Ecosystem  | 30.00 %           |     15.000.000 | <p>Unlocked in 3 months after </p><p>platform launched and </p><p>lasts for 12 months </p> |
-| Foundation               | 24.00 %           |     12.000.000 |      <p>Unlocked in 1 year after</p><p>platform launched and</p><p>lasts for 12 months</p> |
-| Bug Bounty Program       | 2.00 %            |      1.000.000 |                                              <p>Provide to make </p><p>a better system</p> |
-| Smart Contract Insurance | 2.00 %            |      1.000.000 |                                                         Mitigation Risk Control Management |
-| Community Airdrop        | 2.00 %            |      1.000.000 |                                                 <p>Provide to Litedex </p><p>Community</p> |
-| **Total Supply**         | **100.00 %**      | **50.000.000** |                                                          **Provide to Build an Ecosystem** |
+| **Section**              | % of Total Supply |      Size (LDX) |                                                                                Description |
+| ------------------------ | ----------------- | --------------: | -----------------------------------------------------------------------------------------: |
+| Private Sale             | 18.00 %           |      90.000.000 |                                                                            Early Investor  |
+| Public Sale              | 12.00 %           |      60.000.000 |                                                                            ICO - IEO - IDO |
+| Research & Development   | 10.00 %           |      50.000.000 |  <p>Unlocked in 1 month after </p><p>platform launched and </p><p>lasts for 5 months  </p> |
+| Partnership & Ecosystem  | 30.00 %           |     150.000.000 | <p>Unlocked in 3 months after </p><p>platform launched and </p><p>lasts for 12 months </p> |
+| Foundation               | 24.00 %           |     120.000.000 |      <p>Unlocked in 1 year after</p><p>platform launched and</p><p>lasts for 12 months</p> |
+| Bug Bounty Program       | 2.00 %            |      10.000.000 |                                              <p>Provide to make </p><p>a better system</p> |
+| Smart Contract Insurance | 2.00 %            |      10.000.000 |                                                         Mitigation Risk Control Management |
+| Community Airdrop        | 2.00 %            |      10.000.000 |                                                 <p>Provide to Litedex </p><p>Community</p> |
+| **Total Supply**         | **100.00 %**      | **500.000.000** |                                                          **Provide to Build an Ecosystem** |
 
 ## Emission Rate
 
@@ -52,6 +52,7 @@ In addition to the above, a dynamic amount of LDX is also minted at a rate of 9.
 
 At present, LDX is also burned in the following ways:
 
+* **Manual Burn Mechanism**
 * **9.09%** of LDX after **Yield Farm harvesting**
 * **100%** of LDX raised in **ILOs**
 * **100%** of LDX spent on **NFT Merchant Creation **
