@@ -8,8 +8,8 @@ Litedex have 2 mechanism of create emission supply :
 | **Mechanism**                        | **Emission Rate (LDX)** |
 | ------------------------------------ | ----------------------: |
 | Initial Total Supply                 |             500.000.000 |
-| Block Emission                       |           \~105.120.000 |
-| **Total Emission at the First Year** |           \~605.120.000 |
+| Block Emission                       |           \~210.240.000 |
+| **Total Emission at the First Year** |           \~710.240.000 |
 
 The more information about **Initial Total Supply **and **Block Emission **are informed in the next section.
 
@@ -33,8 +33,8 @@ The Initial Supply of Litedex's platform (LDX) is about 50 million tokens, the i
 
 | **Metric**             | **Emission/block (LDX)** | **Emission/day (LDX)** |
 | ---------------------- | -----------------------: | ---------------------: |
-| Emission               |             10 per block |      \~288.000 per day |
-| **Effective Emission** |         **10 per block** |  **\~288.000 per day** |
+| Emission               |             20 per block |      \~376.000 per day |
+| **Effective Emission** |         **20 per block** |  **\~376.000 per day** |
 
 In addition to the above, a dynamic amount of LDX is also minted at a rate of 9.09%. This means that if 100 LDX are harvested, then 9.09 LDX is minted in addition and will be burned.
 
@@ -44,9 +44,9 @@ In addition to the above, a dynamic amount of LDX is also minted at a rate of 9.
 
 | **Distribute to**        | <p><strong>Reward/block (% of </strong></p><p><strong>emission)</strong></p> | <p><strong>Reward/block </strong></p><p><strong>(LDX)</strong></p> | <p><strong>Reward/day </strong></p><p><strong>(LDX)</strong></p> |
 | ------------------------ | ---------------------------------------------------------------------------: | -----------------------------------------------------------------: | ---------------------------------------------------------------: |
-| Staking                  |                                                                          40% |                                                                  4 |                                                        \~115.200 |
-| Farming                  |                                                                          60% |                                                                  6 |                                                        \~172.800 |
-| **Total Daily Emission** |                                                                              |                                                                    |                                                    **\~288.000** |
+| Staking                  |                                                                          40% |                                                                  8 |                                                        \~230.400 |
+| Farming                  |                                                                          60% |                                                                 12 |                                                        \~345.600 |
+| **Total Daily Emission** |                                                                              |                                                                    |                                                    **\~576.000** |
 
 ## **Other Deflationary Mechanism** <a href="other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
 
