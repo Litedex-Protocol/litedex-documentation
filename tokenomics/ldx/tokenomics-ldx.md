@@ -42,8 +42,6 @@ In addition to the above, a dynamic amount of LDX is also minted at a rate of 9.
 
 **Namun, semua LDX yang dirilis dengan minting akan dibakar langsung setelah proses harvest dan tidak akan pernah masuk ke sirkulasi suplai. Dengan demikian, kami tidak memasukkannya kedalam distribusi emisi.**
 
-**However, all LDX minted is burned directly after harvesting** **and never enters circulation. As such, we have not included it in the above emission rate.**
-
 ## Distribusi Emisi
 
 | **Didistribusikan ke**   | <p><strong>Hadiah/blok (% dari </strong></p><p><strong>emisi)</strong></p> | <p><strong>Hadiah/blok </strong></p><p><strong>(LDX)</strong></p> | <p><strong>Hadiah/hari </strong></p><p><strong>(LDX)</strong></p> |
