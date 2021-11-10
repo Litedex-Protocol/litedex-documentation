@@ -38,7 +38,7 @@ Jumlah suplai awal dari Litedex Protocol adalah 50 juta token, suplai awal digun
 | Emisi                  |          20 per blok |      \~376.000 per hari |
 | **Emisi yang efektif** |      **20 per blok** | **\~376.0000 per hari** |
 
-In addition to the above, a dynamic amount of LDX is also minted at a rate of 9.09%. This means that if 100 LDX are harvested, then 9.09 LDX is minted in addition and will be burned.
+Selain hal di atas, jumlah LDX yang dinamis juga diminting pada tingkat 9,09%. Artinya, jika 100 LDX dipanen, maka 9,09 LDX ditambahkan dan akan diburn.
 
 **Namun, semua LDX yang dirilis dengan minting akan dibakar langsung setelah proses harvest dan tidak akan pernah masuk ke sirkulasi suplai. Dengan demikian, kami tidak memasukkannya kedalam distribusi emisi.**
 
