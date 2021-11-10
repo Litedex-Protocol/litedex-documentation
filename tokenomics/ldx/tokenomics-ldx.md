@@ -17,7 +17,7 @@ Informasi lebih lanjut mengenai **Suplai Awal **dan **Emisi Blok **akan disampai
 
 ## Suplai Awal
 
-Jumlah suplai awal dari Litedex Protocol adalah 50 juta token, suplai awal digunakan untuk membangun ekosistem, melakukan partnership, dan lainnya. Untuk rinciannya sebagai berikut:&#x20;
+Jumlah suplai awal dari Litedex Protocol adalah 500 juta token, suplai awal digunakan untuk membangun ekosistem, melakukan partnership, dan lainnya. Untuk rinciannya sebagai berikut:&#x20;
 
 | **Bagian**               | % dari Suplai Total |    Ukuran (LDX) |                                                                                        Deskripsi |
 | ------------------------ | ------------------- | --------------: | -----------------------------------------------------------------------------------------------: |
