@@ -15,7 +15,7 @@ The more information about **Initial Total Supply **and **Block Emission **are i
 
 ## Initial Total Supply
 
-The Initial Supply of Litedex's platform (LDX) is about 50 million tokens, the initial token supply is used to build an ecosystem, partnership, etc which will be used for several purposes as follows :&#x20;
+The Initial Supply of Litedex's platform (LDX) is about 500 million tokens, the initial token supply is used to build an ecosystem, partnership, etc which will be used for several purposes as follows :&#x20;
 
 | **Section**              | % of Total Supply |      Size (LDX) |                                                                                Description |
 | ------------------------ | ----------------- | --------------: | -----------------------------------------------------------------------------------------: |
