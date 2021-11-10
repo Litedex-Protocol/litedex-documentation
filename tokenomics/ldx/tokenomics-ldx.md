@@ -29,7 +29,7 @@ Jumlah suplai awal dari Litedex Protocol adalah 50 juta token, suplai awal digun
 | Bug Bounty Program       | 2.00 %              |      10.000.000 |                                    <p>Digunakan untuk mencari celah </p><p>di dalam platform</p> |
 | Smart Contract Insurance | 2.00 %              |      10.000.000 |                                                                       Management Mitigasi Resiko |
 | Community Airdrop        | 2.00 %              |      10.000.000 |                                                                         Untuk Komunitas Litedex  |
-| **Suplai Suplai**        | **100.00 %**        | **500.000.000** |                                                                    **Membangun Ekosistem Penuh** |
+| **Total Suplai**         | **100.00 %**        | **500.000.000** |                                                                    **Membangun Ekosistem Penuh** |
 
 ## Blok Emisi
 
