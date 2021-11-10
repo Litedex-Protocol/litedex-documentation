@@ -4,7 +4,7 @@
 
 As a platform, LITEDEX highly prioritize security for the users. We ensure in conducting regular checks on smart contract in order to continuously improve the best security standards. The best blockchain security audit company had been commissioned for our auditing. The following is our audit evidence or process:‌
 
-* ​[Certik](https://leaderboard.certik.io/projects/litedex) - Partially resolved
+* ​[Certik](https://leaderboard.certik.io/projects/litedex) - Certified
 
 ### &#x20;**Smart Contract Security** <a href="smart-contract-security" id="smart-contract-security"></a>
 
