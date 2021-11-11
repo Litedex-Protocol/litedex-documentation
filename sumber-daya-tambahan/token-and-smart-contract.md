@@ -4,5 +4,6 @@
 
 * **Ticker: **LDX
 * **Nama:** Litedex
-* **Contract Address: **[0x690db6e3a82d7883990c9ac41b17be9f4ba836d2](https://bscscan.com/token/0x690db6e3a82d7883990c9ac41b17be9f4ba836d2)
+* **Contract Address: **[0x6f1deb53a0df1f4192c3f2237ee8c393c7aa7efe](https://bscscan.com/token/0x6f1deb53a0df1f4192c3f2237ee8c393c7aa7efe)
 * **Network: **Binance Smart Chain (BEP20)&#x20;
+
