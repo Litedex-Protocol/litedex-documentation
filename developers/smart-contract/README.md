@@ -4,7 +4,7 @@
 
 * **Ticker:** LDX
 * **Name:** Litedex
-* **Contract Address:** [0x690db6e3a82d7883990c9ac41b17be9f4ba836d2](https://bscscan.com/token/0x690db6e3a82d7883990c9ac41b17be9f4ba836d2)
+* **Contract Address:** [0x6f1deb53a0df1f4192c3f2237ee8c393c7aa7efe](https://bscscan.com/token/0x6f1deb53a0df1f4192c3f2237ee8c393c7aa7efe)
 * **Network:** Binance Smart Chain (BEP20)&#x20;
 
 Smart contracts are simply programs stored on a blockchain that run when predetermined conditions are met. They typically are used to automate the execution of an agreement so that all participants can be immediately certain of the outcome, without any intermediary’s involvement or time loss. They can also automate a workflow, triggering the next action when conditions are met.
