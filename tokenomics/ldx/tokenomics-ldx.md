@@ -33,10 +33,10 @@ Jumlah suplai awal dari Litedex Protocol adalah 500 juta token, suplai awal digu
 
 ## Blok Emisi
 
-| **Tolak Ukur**         | **Emisi/blok (LDX)** |    **Emisi/hari (LDX)** |
-| ---------------------- | -------------------: | ----------------------: |
-| Emisi                  |          20 per blok |      \~376.000 per hari |
-| **Emisi yang efektif** |      **20 per blok** | **\~376.0000 per hari** |
+| **Tolak Ukur**         | **Emisi/blok (LDX)** |   **Emisi/hari (LDX)** |
+| ---------------------- | -------------------: | ---------------------: |
+| Emisi                  |          20 per blok |     \~376.000 per hari |
+| **Emisi yang efektif** |      **20 per blok** | **\~376.000 per hari** |
 
 Selain hal di atas, jumlah LDX yang dinamis juga diminting pada tingkat 9,09%. Artinya, jika 100 LDX dipanen, maka 9,09 LDX ditambahkan dan akan diburn.
 
