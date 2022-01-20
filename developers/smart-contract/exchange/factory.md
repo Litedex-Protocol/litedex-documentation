@@ -7,6 +7,8 @@
 
 View the [Litedex: Factory Contract on Rinkeby](https://rinkeby.etherscan.io/address/0x154719241ed12011c0a722ca5226ee2099a82d38#code).
 
+**LitedexFactory on BSC Mainnet is auditing by CertiK, stay tune for the new updates.**
+
 ## Read functions
 
 ### getPair

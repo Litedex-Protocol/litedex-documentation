@@ -11,7 +11,7 @@ Litedex have 2 mechanism of create emission supply :
 | Block Emission                       |           \~210.240.000 |
 | **Total Emission at the First Year** |           \~710.240.000 |
 
-The more information about **Initial Total Supply **and **Block Emission **are informed in the next section.
+The more information about **Initial Total Supply** and **Block Emission** are informed in the next section.
 
 ## Initial Total Supply
 
@@ -42,24 +42,25 @@ In addition to the above, a dynamic amount of LDX is also minted at a rate of 9.
 
 ## Distribution
 
-| **Distribute to**        | <p><strong>Reward/block (% of </strong></p><p><strong>emission)</strong></p> | <p><strong>Reward/block </strong></p><p><strong>(LDX)</strong></p> | <p><strong>Reward/day </strong></p><p><strong>(LDX)</strong></p> |
+| **Distribute to**        | <p><strong>Reward/block (% of</strong> </p><p><strong>emission)</strong></p> | <p><strong>Reward/block</strong> </p><p><strong>(LDX)</strong></p> | <p><strong>Reward/day</strong> </p><p><strong>(LDX)</strong></p> |
 | ------------------------ | ---------------------------------------------------------------------------: | -----------------------------------------------------------------: | ---------------------------------------------------------------: |
 | Staking                  |                                                                          40% |                                                                  8 |                                                        \~230.400 |
 | Farming                  |                                                                          60% |                                                                 12 |                                                        \~345.600 |
 | **Total Daily Emission** |                                                                              |                                                                    |                                                    **\~576.000** |
 
-## **Other Deflationary Mechanism** <a href="other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
+## **Other Deflationary Mechanism** <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
 
 At present, LDX is also burned in the following ways:
 
-* **Manual Burn Mechanism**
+****
+
 * **9.09%** of LDX after **Yield Farm harvesting**
 * **100%** of LDX raised in **ILOs**
-* **100%** of LDX spent on **NFT Merchant Creation **
+* **100%** of LDX spent on **NFT Merchant Creation**&#x20;
 * **2%** of every yield harvest in the **Auto Stake Compounding**
 * **2%** of every yield harvest in the **Auto Yield Compounding**
 * **100%** of LDX raised in **Burning Phase Competition**
-* **1% **of LDX raised in every** NFT Transaction**&#x20;
+* **1%** of LDX raised in every **NFT Transaction**&#x20;
 
 {% hint style="info" %}
 This documentation can be updated anytime.

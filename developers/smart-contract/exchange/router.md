@@ -7,6 +7,8 @@
 
 View the[ Litedex: Router Contract on Rinkeby.](https://rinkeby.etherscan.io/address/0xb05a6b43020f67784275b2ce3be6c34c7d564c04#code)
 
+**LitedexRouter on BSC Mainnet is auditing by CertiK, stay tune for the new updates.**
+
 ## Read functions
 
 ### WETH
