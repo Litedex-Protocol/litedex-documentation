@@ -54,11 +54,14 @@ Selain hal di atas, jumlah LDX yang dinamis juga diminting pada tingkat 9,09%. A
 
 Saat ini, LDX juga dibakar dengan beberapa mekanisme dibawah ini:
 
-* **Makanisme Burn Manual**
-* **9.09%** LDX setelah **Panen Yield Farm**
-* **100%** LDX yang didapatkan pada **ILOs**
-* **100%** LDX yang digunakan ketika **NFT Merchant Creation**&#x20;
-* **2%** dari jumlah setiap panen di **Auto Stake Compounding**
-* **2%** dari jumlah setiap panen di **Auto Yield Compounding**
-* **100%** LDX yang didapatkan di **Burning Phase Competition**
-* **1%** LDX didapatkan setiap **Transaksi NFT**&#x20;
+* **9,09%** LDX setelah **panen Yield Farm**
+* **100%** LDX yang dikumpulkan di **ILO**
+* **100%** LDX dihabiskan untuk **NFT Merchant Creation**
+* **2%** dari setiap panen hasil di **Auto Stake Compounding**
+* **2%** dari setiap panen hasil di **Auto Yield Compounding**
+* **100%** LDX yang dikumpulkan dalam **Kompetisi Fase Pembakaran**
+* **1%** LDX yang terkumpul di setiap **Transaksi NFT**
+
+{% hint style="info" %}
+Dokumentasi ini dapat diperbarui kapan saja.
+{% endhint %}
