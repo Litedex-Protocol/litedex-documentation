@@ -1,6 +1,6 @@
 # Smart Contract
 
-![](<../.gitbook/assets/15.-token-\_-smart-contract (2) (1).svg>)
+![](<../../.gitbook/assets/15.-token-\_-smart-contract (2) (1).svg>)
 
 * **Ticker:** LDX
 * **Nama:** Litedex

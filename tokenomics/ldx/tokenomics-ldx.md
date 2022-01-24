@@ -13,7 +13,7 @@ Litedex memiliki 2 mekanisme dalam pendistribusian suplai, yaitu :
 | Emisi Blok                      |          \~210.240.000 |
 | **Total dalam 1 tahun pertama** |          \~710.240.000 |
 
-Informasi lebih lanjut mengenai **Suplai Awal **dan **Emisi Blok **akan disampaikan pada bagian selanjutnya.
+Informasi lebih lanjut mengenai **Suplai Awal** dan **Emisi Blok** akan disampaikan pada bagian selanjutnya.
 
 ## Suplai Awal
 
@@ -24,7 +24,7 @@ Jumlah suplai awal dari Litedex Protocol adalah 500 juta token, suplai awal digu
 | Private Sale             | 18.00 %             |      90.000.000 |                                                                            Pengumpulan dana awal |
 | Public Sale              | 12.00 %             |      60.000.000 |                                                                                  ICO - IEO - IDO |
 | Research & Development   | 10.00 %             |      50.000.000 | <p>Terbuka 1 bulan setelah </p><p>platform rilis dan didistribusikan </p><p>selama 5 bulan  </p> |
-| Partnership & Ecosystem  | 30.00 %             |     150.000.000 |       <p>Terbuka 3 bulan setelah </p><p>platform rilis dan didistribusikan  selama 12 bulan </p> |
+| Partnership & Ecosystem  | 30.00 %             |     150.000.000 |        Menyediakan untuk Partnership & Ekosistem (Alokasi Liquidity, Strategic Partnership, dll) |
 | Foundation               | 24.00 %             |     120.000.000 |  <p>Terbuka 1 tahun setelah </p><p>platform rilis dan didistribusikan </p><p>selama 12 bulan</p> |
 | Bug Bounty Program       | 2.00 %              |      10.000.000 |                                    <p>Digunakan untuk mencari celah </p><p>di dalam platform</p> |
 | Smart Contract Insurance | 2.00 %              |      10.000.000 |                                                                       Management Mitigasi Resiko |
@@ -44,21 +44,21 @@ Selain hal di atas, jumlah LDX yang dinamis juga diminting pada tingkat 9,09%. A
 
 ## Distribusi Emisi
 
-| **Didistribusikan ke**   | <p><strong>Hadiah/blok (% dari </strong></p><p><strong>emisi)</strong></p> | <p><strong>Hadiah/blok </strong></p><p><strong>(LDX)</strong></p> | <p><strong>Hadiah/hari </strong></p><p><strong>(LDX)</strong></p> |
+| **Didistribusikan ke**   | <p><strong>Hadiah/blok (% dari</strong> </p><p><strong>emisi)</strong></p> | <p><strong>Hadiah/blok</strong> </p><p><strong>(LDX)</strong></p> | <p><strong>Hadiah/hari</strong> </p><p><strong>(LDX)</strong></p> |
 | ------------------------ | -------------------------------------------------------------------------: | ----------------------------------------------------------------: | ----------------------------------------------------------------: |
 | Staking                  |                                                                        40% |                                                                 8 |                                                         \~230.400 |
 | Farming                  |                                                                        60% |                                                                12 |                                                         \~345.600 |
 | **Emisi Total per hari** |                                                                            |                                                                   |                                                     **\~576.000** |
 
-## **Mekanisme Deflasi Lainnya** <a href="other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
+## **Mekanisme Deflasi Lainnya** <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
 
 Saat ini, LDX juga dibakar dengan beberapa mekanisme dibawah ini:
 
 * **Makanisme Burn Manual**
 * **9.09%** LDX setelah **Panen Yield Farm**
 * **100%** LDX yang didapatkan pada **ILOs**
-* **100%** LDX yang digunakan ketika **NFT Merchant Creation **
+* **100%** LDX yang digunakan ketika **NFT Merchant Creation**&#x20;
 * **2%** dari jumlah setiap panen di **Auto Stake Compounding**
 * **2%** dari jumlah setiap panen di **Auto Yield Compounding**
 * **100%** LDX yang didapatkan di **Burning Phase Competition**
-* **1%** LDX didapatkan setiap** Transaksi NFT**&#x20;
+* **1%** LDX didapatkan setiap **Transaksi NFT**&#x20;

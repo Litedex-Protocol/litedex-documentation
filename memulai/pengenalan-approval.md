@@ -22,7 +22,7 @@ Proses **Approval** adalah prosedur dalam transaksi, dimana protocol meminta per
 
 ![(Setelah proses Approval berhasil, sistem akan mengeksekusi transaksi staking)](../.gitbook/assets/669D2965-B83A-4909-A6D4-B9CF98FC0A77\_4\_5005\_c.jpeg)
 
-4.** Yield Farming**
+4\. **Yield Farming**
 
 ![(Sistem akan secara otomatis melakukan Approval)](../.gitbook/assets/51881679-C0A6-40A1-B672-57CABDF45FFE\_4\_5005\_c.jpeg)
 

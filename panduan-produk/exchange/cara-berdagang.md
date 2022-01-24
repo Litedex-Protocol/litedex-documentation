@@ -6,7 +6,7 @@ LITEDEX sangat berupaya memudahkan perdagangan untuk pengguna pemula dan penggun
 
 ### **Persiapan berdagang**
 
-Sebelum Anda melakukan perdagangan, Anda harus memiliki Wallet. Jika belum memiliki, Anda bisa mempelajari dan sekaligus membuatnya [disini](../../memulai/cara-membuat-wallet.md)**. ** Dan jika Anda sudah memiliki Wallet, pastikan kembali Anda memiliki Token untuk melakukan perdagangan.
+Sebelum Anda melakukan perdagangan, Anda harus memiliki Wallet. Jika belum memiliki, Anda bisa mempelajari dan sekaligus membuatnya [disini](../../memulai/cara-membuat-wallet.md)**.** Dan jika Anda sudah memiliki Wallet, pastikan kembali Anda memiliki Token untuk melakukan perdagangan.
 
 ### **Berdagang di bursa LITEDEX**
 

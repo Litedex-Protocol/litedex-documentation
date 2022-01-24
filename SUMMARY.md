@@ -40,7 +40,11 @@
 
 ## Sumber Daya Tambahan
 
-* [Smart Contract](sumber-daya-tambahan/token-and-smart-contract.md)
+* [Smart Contract](sumber-daya-tambahan/token-and-smart-contract/README.md)
+  * [Litedex Exchange](sumber-daya-tambahan/token-and-smart-contract/litedex-exchange/README.md)
+    * [Factory](sumber-daya-tambahan/token-and-smart-contract/litedex-exchange/factory.md)
+    * [Router](sumber-daya-tambahan/token-and-smart-contract/litedex-exchange/router.md)
+    * [Yield Farming](sumber-daya-tambahan/token-and-smart-contract/litedex-exchange/yield-farming.md)
 
 ***
 

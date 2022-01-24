@@ -2,7 +2,7 @@
 
 ### **Klaim Faucet ETH (Rinkeby)**
 
-#### **Persiapan **
+#### **Persiapan**&#x20;
 
 Sebelum melakukan klaim faucet, Anda harus menginstall wallet metamask dan pastikan jaringan berada di ETH testnet (rinkeby) dan memiliki akun twitter.
 

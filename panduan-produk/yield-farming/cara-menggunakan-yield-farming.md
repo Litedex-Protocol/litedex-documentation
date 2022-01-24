@@ -78,7 +78,7 @@ Jika Anda ingin menambah, menghapus (mengurangi) dan mengambil sebagian keuntung
 
 #### **Menghapus (mengurangi) Token LP**
 
-1.** **Pada halaman [Farming](https://app.litedex.io/farming), cari Farming tempat Anda memiliki Token LP, dan klik baris dimana saja untuk melihat lebih detail.&#x20;
+1\. **** Pada halaman [Farming](https://app.litedex.io/farming), cari Farming tempat Anda memiliki Token LP, dan klik baris dimana saja untuk melihat lebih detail.&#x20;
 
 ![](../../.gitbook/assets/6C6FF250-CBC6-4743-A371-DB4AD352A0B3\_1\_105\_c.jpeg)
 
@@ -100,11 +100,11 @@ Jika Anda ingin menambah, menghapus (mengurangi) dan mengambil sebagian keuntung
 
 #### **Menambahkan Token LP**
 
-1.** **Pada halaman [Farming](https://app.litedex.io/farming), cari  Farming tempat Anda memiliki Token LP, dan klik baris dimana saja untuk melihat lebih detail.
+1\. **** Pada halaman [Farming](https://app.litedex.io/farming), cari  Farming tempat Anda memiliki Token LP, dan klik baris dimana saja untuk melihat lebih detail.
 
 ![](../../.gitbook/assets/9EAD80EF-2A99-4E1F-AEE0-1B1F3EBF67A7\_1\_105\_c.jpeg)
 
-2.** **Pada bagian detail sebelah kanan, pastikan tulisan “Farm” berwarna hijau yang berarti kondisinya sedang aktif, begitu sebaliknya jika tulisan “Remove” berwarna hijau.
+2\. **** Pada bagian detail sebelah kanan, pastikan tulisan “Farm” berwarna hijau yang berarti kondisinya sedang aktif, begitu sebaliknya jika tulisan “Remove” berwarna hijau.
 
 ![](../../.gitbook/assets/0356D7FE-8827-4AFC-9CB5-657F7D7F6C6E\_4\_5005\_c.jpeg)
 
@@ -126,9 +126,9 @@ Jika Anda ingin menambah, menghapus (mengurangi) dan mengambil sebagian keuntung
 
 #### **Mengambil keuntungan**
 
-1.** **Kunjungi halaman [Farming](https://app.litedex.io/farming).
+1\. **** Kunjungi halaman [Farming](https://app.litedex.io/farming).
 
-2.** **Temukan Farming Anda, dan klik baris dimana saja untuk menampilkan detailnya.
+2\. **** Temukan Farming Anda, dan klik baris dimana saja untuk menampilkan detailnya.
 
 ![](../../.gitbook/assets/AEFAE284-6D49-41FB-B1D4-F696ACF5000A\_1\_105\_c.jpeg)
 
