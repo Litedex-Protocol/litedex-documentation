@@ -20,8 +20,6 @@ Smart contracts are simply programs stored on a blockchain that run when predete
 
 Based on the audit results, Litedex Protocol will migrate smart contracts for LDX Token products. This policy is carried out to provide security guarantees to LDX Token holders for transactions. Audit results can be viewed via [https://certik.org/projects/litedex](https://certik.org/projects/litedex).
 
-Also, the Litedex protocol will upgrade the unaudited LDX Token with a certified LDX Token to all holders who have participated in the private sale program. To proceed the upgrade, users or holders can access [https://token.litedex.io/migration](https://token.litedex.io/migration).
-
 The Public Announcement for Token Migration you can check it out on: [https://litedex.medium.com/public-announcement-ldx-token-migration-37fc9fc2b925](https://litedex.medium.com/public-announcement-ldx-token-migration-37fc9fc2b925)
 
 
