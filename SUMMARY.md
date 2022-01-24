@@ -20,10 +20,10 @@
   * [Cara menggunakan Staking](panduan-produk/staking/cara-menggunakan-staking.md)
 * [Yield Farming](panduan-produk/yield-farming/README.md)
   * [Cara menggunakan Yield Farming](panduan-produk/yield-farming/cara-menggunakan-yield-farming.md)
-* [Analitik \(Info\)](panduan-produk/analitik-info.md)
+* [Analitik (Info)](panduan-produk/analitik-info.md)
 * [Lending](panduan-produk/lending.md)
 * [Borrowing](panduan-produk/borrowing.md)
-* [Non-Fungible Tokan \(NFT\)](panduan-produk/non-fungible-tokan-nft.md)
+* [Non-Fungible Tokan (NFT)](panduan-produk/non-fungible-tokan-nft.md)
 * [Bridge](panduan-produk/bridge.md)
 
 ## Panduan Testnet
@@ -40,14 +40,13 @@
 
 ## Sumber Daya Tambahan
 
-* [Token & Smart Contract](sumber-daya-tambahan/token-and-smart-contract.md)
+* [Smart Contract](sumber-daya-tambahan/token-and-smart-contract.md)
 
----
+***
 
 * [Facebook](https://www.facebook.com/LitedexProtocol)
 * [Github](https://github.com/litedex-protocol)
 * [Telegram](https://t.me/litedexprotocol)
 * [Twitter](https://twitter.com/litedexprotocol)
 * [Instragram](https://www.instagram.com/litedexprotocol/)
-* [Medium](https://litedex.medium.com/)
-
+* [Medium](https://litedex.medium.com)
