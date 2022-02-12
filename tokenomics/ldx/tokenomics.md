@@ -46,7 +46,7 @@ In addition to the above, a dynamic amount of LDX is also minted at a rate of 9.
 | ------------------------ | ---------------------------------------------------------------------------: | -----------------------------------------------------------------: | ---------------------------------------------------------------: |
 | Staking                  |                                                                          40% |                                                                  8 |                                                        \~150.400 |
 | Farming                  |                                                                          60% |                                                                 12 |                                                        \~225.600 |
-| **Total Daily Emission** |                                                                              |                                                                    |                                                    **\~576.000** |
+| **Total Daily Emission** |                                                                              |                                                                    |                                                    **\~376.000** |
 
 ## **Other Deflationary Mechanism** <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
 
