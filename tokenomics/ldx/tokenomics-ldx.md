@@ -46,9 +46,9 @@ Selain hal di atas, jumlah LDX yang dinamis juga diminting pada tingkat 9,09%. A
 
 | **Didistribusikan ke**   | <p><strong>Hadiah/blok (% dari</strong> </p><p><strong>emisi)</strong></p> | <p><strong>Hadiah/blok</strong> </p><p><strong>(LDX)</strong></p> | <p><strong>Hadiah/hari</strong> </p><p><strong>(LDX)</strong></p> |
 | ------------------------ | -------------------------------------------------------------------------: | ----------------------------------------------------------------: | ----------------------------------------------------------------: |
-| Staking                  |                                                                        40% |                                                                 8 |                                                         \~230.400 |
-| Farming                  |                                                                        60% |                                                                12 |                                                         \~345.600 |
-| **Emisi Total per hari** |                                                                            |                                                                   |                                                     **\~576.000** |
+| Staking                  |                                                                        40% |                                                                 8 |                                                         \~150.400 |
+| Farming                  |                                                                        60% |                                                                12 |                                                         \~225.600 |
+| **Emisi Total per hari** |                                                                            |                                                                   |                                                     **\~376.000** |
 
 ## **Mekanisme Deflasi Lainnya** <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
 
