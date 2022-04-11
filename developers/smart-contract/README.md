@@ -4,7 +4,7 @@
 
 * **Ticker:** LDX
 * **Name:** Litedex
-* **Contract Address:** [0x6f1deb53a0df1f4192c3f2237ee8c393c7aa7efe](https://bscscan.com/token/0x6f1deb53a0df1f4192c3f2237ee8c393c7aa7efe)
+* **Contract Address:** [0x8286387174B8667AE5222306A27e9ab5189b503b](https://bscscan.com/token/0x8286387174B8667AE5222306A27e9ab5189b503b)
 * **Network:** Binance Smart Chain (BEP20)&#x20;
 
 Smart contracts are simply programs stored on a blockchain that run when predetermined conditions are met. They typically are used to automate the execution of an agreement so that all participants can be immediately certain of the outcome, without any intermediary’s involvement or time loss. They can also automate a workflow, triggering the next action when conditions are met.
@@ -15,7 +15,7 @@ Smart contracts are simply programs stored on a blockchain that run when predete
 
 * **Ticker:** LDX
 * **Name:** Litedex
-* **New Contract Address:** 0x6f1deb53a0df1f4192c3f2237ee8c393c7aa7efe
+* **New Contract Address:** [0x8286387174B8667AE5222306A27e9ab5189b503b](https://bscscan.com/token/0x8286387174B8667AE5222306A27e9ab5189b503b)
 * **Network:** Binance Smart Chain (BEP20)&#x20;
 
 Based on the audit results, Litedex Protocol will migrate smart contracts for LDX Token products. This policy is carried out to provide security guarantees to LDX Token holders for transactions. Audit results can be viewed via [https://certik.org/projects/litedex](https://certik.org/projects/litedex).
