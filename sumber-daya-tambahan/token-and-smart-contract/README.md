@@ -4,7 +4,7 @@
 
 * **Ticker:** LDX
 * **Nama:** Litedex
-* **Contract Address:** [0x6f1deb53a0df1f4192c3f2237ee8c393c7aa7efe](https://bscscan.com/token/0x6f1deb53a0df1f4192c3f2237ee8c393c7aa7efe)
+* **Contract Address:** [0x8286387174B8667AE5222306A27e9ab5189b503b](https://bscscan.com/token/0x8286387174B8667AE5222306A27e9ab5189b503b)
 * **Network:** Binance Smart Chain (BEP20)&#x20;
 
 Smart contract hanyalah program yang disimpan di blockchain yang berjalan ketika kondisi yang telah ditentukan terpenuhi. Mereka biasanya digunakan untuk mengotomatisasi pelaksanaan kesepakatan sehingga semua peserta dapat segera yakin akan hasilnya, tanpa keterlibatan perantara atau kehilangan waktu. Mereka juga dapat mengotomatiskan alur kerja, memicu tindakan berikutnya saat kondisi terpenuhi.
@@ -15,7 +15,7 @@ Smart contract hanyalah program yang disimpan di blockchain yang berjalan ketika
 
 * **Ticker:** LDX
 * **Nama:** Litedex
-* **Contract Address Baru:** 0x6f1deb53a0df1f4192c3f2237ee8c393c7aa7efe
+* **Contract Address Baru:** [0x8286387174B8667AE5222306A27e9ab5189b503b](https://bscscan.com/token/0x8286387174B8667AE5222306A27e9ab5189b503b)
 * **Network:** Binance Smart Chain (BEP20)
 
 Berdasarkan hasil audit, Litedex Protocol akan memigrasikan kontrak pintar untuk produk Token LDX. Kebijakan ini dilakukan untuk memberikan jaminan keamanan kepada pemegang Token LDX untuk bertransaksi. Hasil audit dapat dilihat melalui https://certik.org/projects/litedex.
