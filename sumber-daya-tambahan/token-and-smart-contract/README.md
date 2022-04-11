@@ -9,21 +9,6 @@
 
 Smart contract hanyalah program yang disimpan di blockchain yang berjalan ketika kondisi yang telah ditentukan terpenuhi. Mereka biasanya digunakan untuk mengotomatisasi pelaksanaan kesepakatan sehingga semua peserta dapat segera yakin akan hasilnya, tanpa keterlibatan perantara atau kehilangan waktu. Mereka juga dapat mengotomatiskan alur kerja, memicu tindakan berikutnya saat kondisi terpenuhi.
 
-
-
-**MENINGKATKAN TOKEN LDX**
-
-* **Ticker:** LDX
-* **Nama:** Litedex
-* **Contract Address Baru:** [0x8286387174B8667AE5222306A27e9ab5189b503b](https://bscscan.com/token/0x8286387174B8667AE5222306A27e9ab5189b503b)
-* **Network:** Binance Smart Chain (BEP20)
-
-Berdasarkan hasil audit, Litedex Protocol akan memigrasikan kontrak pintar untuk produk Token LDX. Kebijakan ini dilakukan untuk memberikan jaminan keamanan kepada pemegang Token LDX untuk bertransaksi. Hasil audit dapat dilihat melalui https://certik.org/projects/litedex.
-
-Pengumuman Publik untuk Migrasi Token Anda dapat melihatnya di: https://litedex.medium.com/public-announcement-ldx-token-migration-37fc9fc2b925
-
-
-
 ## Main contract
 
 Tautan berikut akan membawa Anda ke setiap halaman pemindai blok untuk smart contract utama Litedex di jaringan testnet.
