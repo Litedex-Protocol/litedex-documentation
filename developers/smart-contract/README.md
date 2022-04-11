@@ -9,21 +9,6 @@
 
 Smart contracts are simply programs stored on a blockchain that run when predetermined conditions are met. They typically are used to automate the execution of an agreement so that all participants can be immediately certain of the outcome, without any intermediary’s involvement or time loss. They can also automate a workflow, triggering the next action when conditions are met.
 
-
-
-**UPGRADING LDX TOKEN**
-
-* **Ticker:** LDX
-* **Name:** Litedex
-* **New Contract Address:** [0x8286387174B8667AE5222306A27e9ab5189b503b](https://bscscan.com/token/0x8286387174B8667AE5222306A27e9ab5189b503b)
-* **Network:** Binance Smart Chain (BEP20)&#x20;
-
-Based on the audit results, Litedex Protocol will migrate smart contracts for LDX Token products. This policy is carried out to provide security guarantees to LDX Token holders for transactions. Audit results can be viewed via [https://certik.org/projects/litedex](https://certik.org/projects/litedex).
-
-The Public Announcement for Token Migration you can check it out on: [https://litedex.medium.com/public-announcement-ldx-token-migration-37fc9fc2b925](https://litedex.medium.com/public-announcement-ldx-token-migration-37fc9fc2b925)
-
-
-
 ## Main contracts
 
 The following links will take you to each block scanner page for Litedex's main smart contracts in testnet network.
