@@ -20,10 +20,10 @@
   * [How to use Staking](products-guide/staking/how-to-use-staking.md)
 * [Yield Farming](products-guide/yield-farming/README.md)
   * [How to use Yield Farming](products-guide/yield-farming/how-to-use-yield-farming.md)
-* [Analytics \(Info\)](products-guide/analytics-info.md)
+* [Analytics (Info)](products-guide/analytics-info.md)
 * [Lending](products-guide/lending.md)
 * [Borrowing](products-guide/borrowing.md)
-* [Non-Fungible Token \(NFT\)](products-guide/non-fungible-token-nft.md)
+* [Non-Fungible Token (NFT)](products-guide/non-fungible-token-nft.md)
 * [Bridge](products-guide/bridge.md)
 
 ## Guide Testnet
@@ -45,8 +45,9 @@
     * [Factory](developers/smart-contract/exchange/factory.md)
     * [Router](developers/smart-contract/exchange/router.md)
   * [Yield Farming](developers/smart-contract/yield-farming.md)
+* [Security Preventive](developers/security-preventive.md)
 
----
+***
 
 * [Facebook](https://www.facebook.com/LitedexProtocol)
 * [Github](https://github.com/litedex-protocol)
@@ -54,4 +55,3 @@
 * [Twitter](https://twitter.com/litedexprotocol)
 * [Instragram](https://www.instagram.com/litedexprotocol/)
 * [Medium](https://litedex.medium.com/)
-
