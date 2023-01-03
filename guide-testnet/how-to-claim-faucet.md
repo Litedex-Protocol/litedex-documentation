@@ -44,7 +44,7 @@ Before making a faucet claim, you have to install the metamask wallet and make s
 
 **Starting a BSC faucet claim**
 
-1\. Visit [app.litedex.io](https://app.litedex.io) page
+1\. Visit [app.litedex.io](https://app.litedex.io/) page
 
 2\. Click the “Claim Faucet” button
 

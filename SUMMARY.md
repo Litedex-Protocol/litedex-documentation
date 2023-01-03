@@ -36,15 +36,24 @@
 ## Tokenomics
 
 * [LDX](tokenomics/ldx/README.md)
-  * [Tokenomics](tokenomics/ldx/tokenomics.md)
+  * [Old Tokenomics](tokenomics/ldx/tokenomics.md)
+  * [Current Tokenomics](tokenomics/ldx/current-tokenomics.md)
 
 ## Developers
 
-* [Smart Contract](developers/smart-contract/README.md)
-  * [Litedex Exchange](developers/smart-contract/exchange/README.md)
-    * [Factory](developers/smart-contract/exchange/factory.md)
-    * [Router](developers/smart-contract/exchange/router.md)
-  * [Yield Farming](developers/smart-contract/yield-farming.md)
+* [Overview](developers/overview.md)
+* [Technical Reference](developers/technical-reference/README.md)
+  * [API](developers/technical-reference/api/README.md)
+    * [API Overview](developers/technical-reference/api/api-overview.md)
+    * [Entities](developers/technical-reference/api/entities.md)
+    * [Queries](developers/technical-reference/api/queries.md)
+  * [Smart Contract](developers/technical-reference/smart-contract/README.md)
+    * [Exchange](developers/technical-reference/smart-contract/exchange/README.md)
+      * [Factory](developers/technical-reference/smart-contract/exchange/factory.md)
+      * [Router](developers/technical-reference/smart-contract/exchange/router.md)
+    * [Staking](developers/technical-reference/smart-contract/yield-farming/README.md)
+      * [Locked Staking](developers/technical-reference/smart-contract/yield-farming/locked-staking.md)
+      * [Flexible Staking](developers/technical-reference/smart-contract/yield-farming/flexible-staking.md)
 * [Security Preventive](developers/security-preventive.md)
 
 ***

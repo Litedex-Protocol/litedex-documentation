@@ -81,7 +81,7 @@ If you have understood well, you can click "Next".
 
 ![](../.gitbook/assets/11-2.png)
 
-If you want to know more about Metamask, you can visit the Official Website [here](https://metamask.io).
+If you want to know more about Metamask, you can visit the Official Website [here](https://metamask.io/).
 {% endtab %}
 
 {% tab title="MathWallet" %}
@@ -94,7 +94,7 @@ If you want to know more about Metamask, you can visit the Official Website [her
 * Smartphone (Guide not available)
 * Desktop/Web Browser (Visit the guide [here](https://mathwallet.medium.com/tutorial-of-math-wallet-browser-extension-d9338f1a6f7))
 
-If you want to know more about MathWallet, you can visit the official website, as well as download and install it [here](https://mathwallet.org).[\
+If you want to know more about MathWallet, you can visit the official website, as well as download and install it [here](https://mathwallet.org/).[\
 ](https://app.gitbook.com/@litedex-1/s/litedex-documentation/get-started/wallet-introduction)
 {% endtab %}
 
@@ -119,7 +119,7 @@ If you want to know more about SafePal, you can visit the Official Website [here
 
 * Smartphone (Visit the guide [here](https://community.trustwallet.com/t/how-to-create-a-multi-coin-wallet/41))
 
-If you want to know more about TrustWallet, you can visit the official website, as well as download and install it [here](https://trustwallet.com).
+If you want to know more about TrustWallet, you can visit the official website, as well as download and install it [here](https://trustwallet.com/).
 {% endtab %}
 
 {% tab title="HuobiWallet" %}
@@ -131,7 +131,7 @@ If you want to know more about TrustWallet, you can visit the official website, 
 
 * Smartphone (Visit the guide [here](https://support.huobiwallet.com/hc/en-us/articles/360000135181-How-Can-I-Create-a-Wallet-))
 
-If you want to know more about HuobiWallet, you can visit the Official Website here. If you want to download and install, you can visit [huobiwallet.com](https://www.huobiwallet.com).
+If you want to know more about HuobiWallet, you can visit the Official Website here. If you want to download and install, you can visit [huobiwallet.com](https://www.huobiwallet.com/).
 {% endtab %}
 
 {% tab title="TokenPocket" %}
@@ -145,6 +145,6 @@ If you want to know more about HuobiWallet, you can visit the Official Website h
 
 * Smartphone (Guide not available)
 
-If you want to know more about TokenPocket, you can visit the official website, as well as download and install it [here](https://www.tokenpocket.pro).
+If you want to know more about TokenPocket, you can visit the official website, as well as download and install it [here](https://www.tokenpocket.pro/).
 {% endtab %}
 {% endtabs %}

@@ -3,11 +3,9 @@
 ## Contract info
 
 **Contract name:** LitedexRouter\
-**Contract address:** 0xb05A6B43020F67784275b2ce3be6c34c7D564c04 **(Rinkeby)**
+**Contract address:** 0x2813203479c8d52a0a7bf4620b9325a753fda9f8
 
-View the[ Litedex: Router Contract on Rinkeby.](https://rinkeby.etherscan.io/address/0xb05a6b43020f67784275b2ce3be6c34c7d564c04#code)
-
-**LitedexRouter on BSC Mainnet is auditing by CertiK, stay tune for the new updates.**
+View the Litedex: [Router Contract on Bscscan](https://bscscan.com/address/0x2813203479c8d52a0a7bf4620b9325a753fda9f8).
 
 ## Read functions
 
@@ -17,7 +15,7 @@ View the[ Litedex: Router Contract on Rinkeby.](https://rinkeby.etherscan.io/add
 function WETH() external pure returns (address);
 ```
 
-Returns the canonical address for [WETH token](https://rinkeby.etherscan.io/address/0xc778417e063141139fce010982780140aa0cd5ab) (WETH being a vestige from Ethereum network origins).
+Returns the canonical address for [WBNB token](https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c) (WBNB being a vestige from BNB network origins).
 
 ### factory
 
@@ -25,7 +23,7 @@ Returns the canonical address for [WETH token](https://rinkeby.etherscan.io/addr
 function factory() external pure returns (address);
 ```
 
-Returns the canonical address for [LitedexFactory](https://rinkeby.etherscan.io/address/0x154719241ed12011c0a722ca5226ee2099a82d38).
+Returns the canonical address for [LitedexFactory](https://bscscan.com/address/0x716d94d0b70f5a50133a61c12d37309dad93bab4).
 
 ### getAmountOut
 

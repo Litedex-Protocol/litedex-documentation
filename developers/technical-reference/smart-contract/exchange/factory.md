@@ -3,11 +3,9 @@
 ## Contract Information
 
 **Contract name:** LitedexFactory\
-**Contract address:** 0x154719241ed12011c0A722ca5226Ee2099a82D38 **(Rinkeby)**
+**Contract address:** 0x716d94d0b70f5a50133a61c12d37309dad93bab4
 
-View the [Litedex: Factory Contract on Rinkeby](https://rinkeby.etherscan.io/address/0x154719241ed12011c0a722ca5226ee2099a82d38#code).
-
-**LitedexFactory on BSC Mainnet is auditing by CertiK, stay tune for the new updates.**
+View the Litedex: [Factory Contract on Bscscan](https://bscscan.com/address/0x716d94d0b70f5a50133a61c12d37309dad93bab4).
 
 ## Read functions
 
